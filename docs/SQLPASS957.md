@@ -15,7 +15,7 @@ Event Date: 12-12-2018 15:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Jim Wooley
 ## Title: Entity Framework Performance Monitoring and Tuning
 ## Description:
-### 
+### Object Relational Mapping technologies, including the Entity Framework can drastically simplify the programming model against databases, but when done carelessly, performance can suffer. In this session, we'll explore some real-life strategies that have solved performance issues in production applications that I have encountered at a variety of customers. We'll discuss the pros and cons of working without stored procs and cover strategies for monitoring and tuning your entity queries.
 # 
 #### SessionID: 87423
 # Getting Started locally with SQL Server and Kubernetes
@@ -24,7 +24,9 @@ Event Date: 12-12-2018 16:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Thomas Liddle
 ## Title: Getting Started locally with SQL Server and Kubernetes
 ## Description:
-### 
+### Kubernetes is becoming a go-to platform for companies as they explore the realm of containers and microservices.  Kubernetes has proven itself in the web application stack but what about databases?  Microsoft has invested a considerable amount of effort into containerizing Microsoft SQL Server starting with SQL Server 2017.  However, the documentation provided involves running SQL Server in a docker container...what about Kubernetes?
+
+This session involves installing, connecting and working with a local (on your laptop or desktop) Microsoft SQL Server Express instance on Kubernetes.  The goal is to show an administrator or developer how to get started with Microsoft SQL Server locally using components like minikube, Kubernetes, Helm and SSMS. We will explain each component used in the setup, how to install them and finally connect SSMS to our Microsoft SQL Server instance on a local Kubernetes installation.
 # 
 #### SessionID: 87232
 # Lets go deep in SQL Server Unit Testing with Visual Studio
@@ -33,7 +35,11 @@ Event Date: 12-12-2018 17:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Geovanny Hernandez
 ## Title: Lets go deep in SQL Server Unit Testing with Visual Studio
 ## Description:
-### 
+### Everyone that has been involved in the Database Development can notice how huge the impact of a bug can be, especially when these kinds of mistakes could be easily avoided through the Test Driven Development (TDD) approach.
+
+When you start to google search about how to start implementing Unit Testing for SQL Server you always find tSQLt as the first result returned, however, the extremely low number of downloads tell us about the issue with this implementation. Some possible causes could be explained, such as the lack of a free UI tool for executing the tests, but I have been working with many full-stack developers and one of the most important complaints is related to the fact that AAA (Arrange-Act-Assert) is not native and they can’t feel a soft transition in their regular tasks for Unit Testing with Databases.
+
+In this presentation, I would like to focus on how to get a better performance through the SQL Unit Test feature of Visual Studio, how to overcome the problems.
 # 
 #### SessionID: 87484
 # tSQLt - How to Unit Test Your Database Code for Free
@@ -42,4 +48,9 @@ Event Date: 12-12-2018 18:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Hamish Watson
 ## Title: tSQLt - How to Unit Test Your Database Code for Free
 ## Description:
-### 
+### Unit testing is a design approach which has enabled application developers to write (and deploy) cleaner code. It is also relevant for database development as it ensures that code produced utilizing unit tests will be of higher quality which means interactions with data will be safer. Unit testing allows you to test procedures and functions (units of code) and in doing so we can verify those units of code work as expected, which improves the overall quality of our code.
+
+This session will introduce you to tSQLt - a unit test framework - which allows data professionals to easily unit test their code in the same manner that application developers have for decades. One of the best aspects of tSQLt is that allows the unit tests to be written in T-SQL, which means that DBAs do not have to learn another language and more importantly they can use it in SQL Server Management Studio. The other aspect of tSQLt is that it is a free open source framework which means you can also contribute ideas/features back. 
+
+In this session we will look at how to implement tSQLt, use it in a variety of ways and how even if you have no existing unit tests and a large code base, you can start writing tests now to make the deployment of your database code safer.
+

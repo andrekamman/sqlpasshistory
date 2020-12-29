@@ -16,7 +16,7 @@ Event Date: 23-05-2019 14:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Grant Fritchey, Christopher Unwin, Matt Hilbert
 ## Title: 10 Steps you can Take to be Data Compliant Worldwide
 ## Description:
-### 
+### This keynote session will discuss data privacy legislation around the world, talk about where common strands and themes are emerging, and walk you through the 10 steps you can take to be compliant worldwide.
 # 
 #### SessionID: 93245
 # Data Privacy and the Data Driven Professional
@@ -25,7 +25,11 @@ Event Date: 23-05-2019 15:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Martin Catherall
 ## Title: Data Privacy and the Data Driven Professional
 ## Description:
-### 
+### Rapid new technological advances in the data-driven world are placing the issue of Data Privacy at the forefront of the public consciousness – forcing a discussion around the ethical use of data within business and the role that each data professional must play in ensuring that the highest standards are reached, maintained and constantly evaluated.
+
+But what are the main issues here and what are the tools and techniques that both Microsoft and Third Parties provide us with to help overcome some of these obstacles.
+
+This session will take a close look at some of these challenges and the tools that are available to help mitigate these issues and risks, help avoid any data misuse, large financial penalties and keep you in business and using data responsibly.
 # 
 #### SessionID: 93490
 # A Techie's View on Meeting Compliance
@@ -34,7 +38,17 @@ Event Date: 23-05-2019 16:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Brian Kelley
 ## Title: A Techie's View on Meeting Compliance
 ## Description:
-### 
+### Your systems must meet the latest flavor of law, regulation, industry standard, or governance framework. There's a myriad of terms and new jargon you're expected to understand. What do they mean? How do they apply to you and your environment? We'll look at those terms as well as the technical solutions you can put into place to ensure your organization is "in compliance." The topics we'll consider:
+
+	* Authentication / Authorization
+	* Auditing
+	* Data Classification
+	* Data Security
+	* Data Encryption
+	* Data Obfuscation / Masking
+	* Change Detection / Prevention
+
+While this talk will focus primarily on SQL Server-based solutions, they are applicable to most data environments and technologies. 
 # 
 #### SessionID: 93638
 # Masking Sensitive Data in Dev and Test
@@ -43,7 +57,7 @@ Event Date: 23-05-2019 17:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Kendra Little, Andrew Pierce
 ## Title: Masking Sensitive Data in Dev and Test
 ## Description:
-### 
+### This practical demo will show how SQL Provision enables copies of databases containing sensitive data to be automatically masked and refreshed for developers.
 # 
 #### SessionID: 93436
 # How GDPR compliant are you? – Centralized and Decentralized Duo
@@ -52,4 +66,4 @@ Event Date: 23-05-2019 18:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Swagatika Sarangi
 ## Title: How GDPR compliant are you? – Centralized and Decentralized Duo
 ## Description:
-### 
+### Since GDPR compliance has been a much talked about topic in the Data Privacy domain, a lot of us have been more focused in implementing centralized applications. Right to protect, right to erase, right to consumer data etc. have been a part of the broader data-privacy bandwagon; however, we have been missing out on the possibility of owning a ‘GDPR Compliant Decentralized Application’ in our futuristic view. It is never too early to discuss GDPR's reachability to the relational-non-relational-decentralized world.  This session will include data privacy and data security in Centralized Architecture [Demo featuring SQL Server 2017, SSIS, SSRS].

@@ -109,7 +109,7 @@ foreach ($sessionfile in Get-ChildItem $sessionfiles ) {
             ID = [int]$xml.SessionID.'#text'
             EventID = [int]$xml.EventID.'#text'
             Name = $name
-            Description = $SessionDescription
+            Description = $description
             Date = $DateTimeStart
             Category = $xml.SessionCategory
             Track = $track

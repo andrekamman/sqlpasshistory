@@ -17,7 +17,7 @@ Event Date: 14-12-2016 17:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Dan English
 ## Title: Analyzing Healthcare Open Data with Power BI
 ## Description:
-### 
+### In this session we will explore and evaluate Healthcare data that is freely available to the public. You will see how easily we can consume and integrate the data to analyze and investigate. In the demos you will see some of the latest enhancements and features that have been included with Power BI such as ArcGIS (Esri) maps, forecasting, Top N filtering, grouping / binning, custom R visuals, and maybe a few more along the way. If you are interested in Open Data, Healthcare, or have to perform a lot of data manipulation in Excel or other tools to provide analysis for your job then this is the session for you. Leverage the free capabilities of Power BI, advanced analytics, and help simplify your everyday workload and wow your boss!
 # 
 #### SessionID: 56757
 # Big Data Analytics with SparkR
@@ -26,7 +26,7 @@ Event Date: 14-12-2016 18:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Jen Underwood
 ## Title: Big Data Analytics with SparkR
 ## Description:
-### 
+### SparkR, an R package that provides an interface with Apache Spark, leverages Spark’s powerful distributed computation engine to enable exploration, data analysis, and data science on big data sets. In this session, we will introduce SparkR. We will also demonstrate how to get started using SparkR for interactively querying data, building predictive user defined functions and running large scale machine learning with MLlib. 
 # 
 #### SessionID: 56758
 # Disrupt the static nature of BI with Predictive Anomaly Detection
@@ -35,7 +35,7 @@ Event Date: 14-12-2016 19:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Uri Maoz
 ## Title: Disrupt the static nature of BI with Predictive Anomaly Detection
 ## Description:
-### 
+### The static nature of BI today result business insight latency, that cost companies millions of dollars. Data-centric companies like web-based businesses, digital advertising, fintech and IoT need to gain crucial real time business incident detection in order to optimize their business performance. Join Uri to learn how this can be achieved using Predictive Anomaly Detection approach. Uri will share advantages and challenges in implementing Anomaly Detection approach, Industry benchmark and Customers case studies 
 # 
 #### SessionID: 56759
 # Using R to Clean and Transform Small Data
@@ -44,7 +44,7 @@ Event Date: 14-12-2016 20:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Mark Wilcock
 ## Title: Using R to Clean and Transform Small Data
 ## Description:
-### 
+### Big data yes, dark data perhaps but small data – really?  Small data is high value data which is often the key numbers or performance indicators that are used by senior management to guide the business.  It has been collected at great effort and expense but usually supplied in format that is not conducive to analysis, reporting or visualisation.  Using a few examples based on real life case studies we’ll look how R can transform and clean this data.   This is a practical session with lots of example of R code.  So if the veracity, variety and value of data are more important aspects than volume and velocity then this session will be of interest to you.
 # 
 #### SessionID: 56760
 # Visualizing Multiple Time Series with R in Power BI
@@ -53,7 +53,7 @@ Event Date: 14-12-2016 21:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Bill McLellan
 ## Title: Visualizing Multiple Time Series with R in Power BI
 ## Description:
-### 
+### Power BI and R together offer an enjoyable way for business users to quickly consume complex analytical insights. Outside the business domain, the same tools are available for visualizing public data of cultural interest. The open source Correlates of War (COW) project has been gathering datasets that track all militarized conflicts since the early 1800s along with other time-indexed factors like religion, ideology, and economic power. Do these time series correlate in meaningful ways? What would it look like to visually tell the story of 200 years of global conflict? Using a tabular model linked to these online csv files, I provide examples of where out-of-the-box visualizations in Power BI suffice and where custom modeling and visualization in R get us further.
 # 
 #### SessionID: 56899
 # Real World Predictive Analytics
@@ -62,4 +62,4 @@ Event Date: 14-12-2016 22:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Miguel Molina-Cosculluela, Diwakar Rajagopal
 ## Title: Real World Predictive Analytics
 ## Description:
-### 
+### Join us in this session to explore how predictive analytics is being used in the real world. We will look at generic use cases such as predicting student attrition in universities to explore the challenges and solutions to some of the commonly found predictive analytics scenarios.

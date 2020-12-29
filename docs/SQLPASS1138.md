@@ -18,7 +18,7 @@ Event Date: 31-03-2020 18:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Mark Van de Wiel
 ## Title: Data Integration onto Azure: Three Tips to Consider
 ## Description:
-### 
+### Leveraging the power of Microsoft Azure to architect a hybrid cloud data integration solution requires a strategic and coordinated approach. During this webinar HVR’s Chief Technology Officer, Mark Van de Wiel, will share how to securely integrate data into an Azure environment, how to get the most of network resources to optimize transfer, and the importance of integrating of a data validation solution into Azure data stores. 
 # 
 #### SessionID: 104304
 # Getting Started with Performance Monitoring in Azure SQL
@@ -27,7 +27,7 @@ Event Date: 31-03-2020 19:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Bob Ward
 ## Title: Getting Started with Performance Monitoring in Azure SQL
 ## Description:
-### 
+### Are you familiar with performance monitoring with SQL Server? Come learn the basics of how to translate your knowledge to monitoring performance with Azure SQL Virtual Machine, Azure SQL Database, and Azure SQL Managed Instance. We will show you what is the same, what is different, and what is new and adds value to your performance monitoring experience with SQL databases hosted in the Azure.
 # 
 #### SessionID: 104305
 # Hardware 301: Evaluating and Choosing Database Hardware for SQL Server 2019
@@ -36,7 +36,9 @@ Event Date: 31-03-2020 20:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Glenn Berry
 ## Title: Hardware 301: Evaluating and Choosing Database Hardware for SQL Server 2019
 ## Description:
-### 
+### Microsoft made some sweeping changes to their software licensing model for SQL Server 2012, moving from socket-based licensing to core-based licensing. This new licensing model alters much of the conventional criteria for hardware selection for database servers that will be running SQL Server 2012 and newer. This change still causes a significant amount of angst, with fears of huge increases in SQL Server licensing costs compared to older versions of the product. 
+
+This session will cut through the uncertainty and hype to show you how to properly evaluate and choose your database hardware for usage with SQL Server 2012 and newer. You will learn how to choose hardware for different types of workloads and how to get the best performance and scalability for the lowest licensing cost, whether you are running in a physical or virtualized environment.
 # 
 #### SessionID: 104079
 # Query Store: An Introduction
@@ -45,7 +47,7 @@ Event Date: 31-03-2020 21:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Thomas LeBlanc
 ## Title: Query Store: An Introduction
 ## Description:
-### 
+### SQL Server’s Query Data Store is a brilliant option for databases if you are a DBA or have to do performance tuning on T-SQL queries. This feature of SQL Server 2016 or higher is contained within a database with configuration options for storage of history and query plans. The option has many benefits you can take advantage of today, but also this is an option for future upgrades to new SQL Server versions because of the history contained in the database rather than the instance.
 # 
 #### SessionID: 104293
 # Maintain SQL Server Performance Baseline with PowerShell
@@ -54,7 +56,7 @@ Event Date: 31-03-2020 22:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Allen White
 ## Title: Maintain SQL Server Performance Baseline with PowerShell
 ## Description:
-### 
+### Maintaining a solid set of information about our servers and their performance is critical when issues arise, and often help us see a problem before it occurs.  Building a baseline of performance metrics allows us to know when something is wrong and help us to track it down and fix the problem.  This session will walk you through a series of PowerShell scripts you can schedule which will capture the most important data and a set of reports to show you how to use that data to keep your server running smoothly.
 # 
 #### SessionID: 104306
 # T-SQL Performance Troubleshooting
@@ -63,7 +65,9 @@ Event Date: 31-03-2020 23:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Vern Rabe
 ## Title: T-SQL Performance Troubleshooting
 ## Description:
-### 
+### There are many ways to troubleshoot SQL Server performance issues, but in my experience fixing poorly written T-SQL often results in the greatest performance improvements. How do you identify poorly written T-SQL? 
+
+In this session we’ll start with a brief overview of the graphical execution plan and how to use it to home in on performance issue causes. We’ll then look at several (unfortunately common) T-SQL patterns that can hurt query performance. We’ll discuss how to identify those patterns, explain why they perform poorly, and demonstrate better methods to write them. There will be lots of code demonstrations of both the good and the bad T-SQL.
 # 
 #### SessionID: 104296
 # Azure SQL Database - Where is my SQL Agent?
@@ -72,4 +76,9 @@ Event Date: 01-04-2020 00:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Taiob Ali
 ## Title: Azure SQL Database - Where is my SQL Agent?
 ## Description:
-### 
+### You migrate your on-premise SQL Database to cloud, taking advantage of the PaaS offering of Azure SQL Database. You heard the promise of spinning up databases on demand and being able to scale up /down as required. You also want to make sure you are performing integrity checks, statistics updates when necessary. There is no SQL Agent, so how do you automate your jobs? Do you have time to do this manually each time? No. There are different options available to automate these long-running, manual, error-prone, and frequently repeated tasks to increase reliability, efficiency. 
+
+In this demo intensive session, I will show you different options on how to automate these tasks. These solutions use on-prem infrastructure and Azure services conveniently encapsulated within the collective Azure portal experience. 
+
+At the end of this session, you will have a solid understanding of how to automate SQL Server Maintenance tasks, including replacing SQL Agent functionality with multiple options.
+
