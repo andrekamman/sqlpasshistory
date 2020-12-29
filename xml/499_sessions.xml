@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xml:base="http://feeds.pass.org/public/events/OratorDataService.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">PASS_OData_Orator_Session</title>
+  <id>http://feeds.pass.org/public/events/OratorDataService.svc/Events(499)/PASS_OData_Orator_Session</id>
+  <updated>2020-12-28T21:44:56Z</updated>
+  <link rel="self" title="PASS_OData_Orator_Session" href="PASS_OData_Orator_Session" />
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39767)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39767)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39767)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39767)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39767)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39767</d:SessionID>
+        <d:SessionName>Date Dimension: Past &amp; Future in One Script</d:SessionName>
+        <d:SessionDescription>All data warehouses need a date and time dimension to enable proper analysis across time. Most Data Warehouse designers will just use one provided by tools or create it in Excel, but what if you need to set up custom holidays or want different calendars, such as Fiscal or Julian? You can have any date and time dimension you need by using a single SQL script that can be modified and rerun as necessary. Learn what it takes to design a date and time dimension that does all of the calculations and formatting up-front so the reports can be easier to create. Sample script will be provided that creates the date and time dimensions and can be reused as often as necessary without breaking your data warehouse and it only take seconds to run!</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T09:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T10:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>BI Platform Architecture, Development &amp; Administration</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 116</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39767</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39775)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39775)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39775)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39775)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39775)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39775</d:SessionID>
+        <d:SessionName>Create a Simple Operational Data Store</d:SessionName>
+        <d:SessionDescription>If you or your users frequently run large, sweeping reporting-style queries against your OLTP system, you know the pain of having your system grinding to a halt under the resulting strain.  One solution is to create a basic operational data store on another server where those big queries can execute.  In this session, I will share some scripts to create a simple ODS system and to automatically refresh your databases.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T16:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T17:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Enterprise Database Administration &amp; Deployment</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 314</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39775</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39780)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39780)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39780)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39780)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39780)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39780</d:SessionID>
+        <d:SessionName>Sql Server Architecture for World Domination</d:SessionName>
+        <d:SessionDescription xml:space="preserve">It's common to start with a small database server; but when activity increases, how do you know when to scale? This session will cover scaling Sql Server from express to enterprise and VM to a scale-out HADR architecture. You'll learn common upgrade and migration techniques along with things to keep in mind when building new environments. We'll start with a stand alone server and work our way up to a large scale out and scale up deployment. </d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T10:30:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T11:45:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Strategy and Architecture</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 114</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39780</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39810)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39810)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39810)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39810)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39810)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39810</d:SessionID>
+        <d:SessionName>Azure Machine Learning - Building New Value From Old Data</d:SessionName>
+        <d:SessionDescription xml:space="preserve">We have lots and lots of data. Typically when it comes to data analysis we have to know what our measures of success are before we design our BI. These are typically manifested by competency, or domain driven KPI's but what if those metrics don't actually measure success at all?
+
+In this talk we will be discussing how to leverage azure machine learning to answer questions in your organization about success and how to find the KPI's that really matter and drive results. </d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T14:30:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T15:45:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Advanced Analysis Techniques</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 212</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39810</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39822)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39822)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39822)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39822)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39822)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39822</d:SessionID>
+        <d:SessionName>Splitting your tables: Partitioning Basics</d:SessionName>
+        <d:SessionDescription>Partitioning is a strategy in SQL Server that allows you to physically separate data in your table along a given field, granting benefits to performance in specific circumstances, but at the cost of some additional maintenance. Here we'll discuss the benefits and drawbacks of Table Partitioning in MS SQL Server, as well as when you should, or should not, consider partitioning your tables.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T14:30:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T15:45:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Application &amp; Database Development</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 314</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39822</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39841)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39841)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39841)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39841)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39841)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39841</d:SessionID>
+        <d:SessionName>SQL Server and ElasticSearch Integration</d:SessionName>
+        <d:SessionDescription>ElasticSearch is a No-SQL document store and search engine that scales up to very large data volumes and down to very small ones effectively.  Using ElasticSearch to do full-text searching makes a lot of sense.  This talk will introduce ElasticSearch and discuss strategies and practices for integrating it into a SQL Server environment.  Specifically discussed will be using queuing systems, LogStash and ETL paradigms to share data with ElasticSearch.  Considerations of deployment and operations will also be discussed.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T09:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T10:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Application &amp; Database Development</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 316</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39841</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39036)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39036)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39036)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39036)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39036)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39036</d:SessionID>
+        <d:SessionName>Extending Your Availability Group for Disaster Recovery</d:SessionName>
+        <d:SessionDescription>Did you know that SQL Server Availability Groups can be a great solution for disaster recovery?  Availability groups have become well known for their high availability capabilities, and for good reason: they work well, they remove some of clustering’s limitations, and they are fairly straightforward to setup.  Extending an availability group to multiple sites for disaster recovery becomes more complicated.  A lot of moving parts have to come together for it to work properly - SQL Server, Windows, Active Directory, and DNS all get involved in this advanced configuration.  In this session, we’ll discuss some of the factors that complicate a multi-site availability group deployment, and we’ll walk through a multi-site deployment so you can see how it’s done.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T09:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T10:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Enterprise Database Administration &amp; Deployment</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 210</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39036</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39049)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39049)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39049)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39049)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39049)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39049</d:SessionID>
+        <d:SessionName>Building a Modern Transaction System on SQL Server</d:SessionName>
+        <d:SessionDescription>Developers today face an onslaught of data storage applications. Various NoSQL offerings promise performance, scalability and easy development on commodity boxes. How does one get these benefits in SQL Server? What does a SQL Server application built today using the newest features and best practices look like? This session will discuss client applications, new SQL Server features and application architectures to support a modern, high-throughput transaction environments.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T13:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T14:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Application &amp; Database Development</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 224</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39049</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39199)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39199)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39199)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39199)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39199)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39199</d:SessionID>
+        <d:SessionName>Cardinality estimation and how it affects your execution plan</d:SessionName>
+        <d:SessionDescription>What is cardinality estimation and how you can use it to your advantage. In this session we'll cover the mechanics behind cardinality estimation and why it is so very critical to query performance. We will also be discussing some of the changes that were made to the estimator for SQL Server 2014.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T13:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T14:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Enterprise Database Administration &amp; Deployment</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 114</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39199</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39234)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39234)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39234)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39234)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39234)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39234</d:SessionID>
+        <d:SessionName xml:space="preserve">Data Integration with Master Data Services </d:SessionName>
+        <d:SessionDescription xml:space="preserve">Master Data Services (MDS) enables the management of non-transactional data that defines business entities within the enterprise. Get a good business and technical understanding of how MDS can help obtain better business clarity across the organization through a Data Governance strategy. Data Governance is a methodology that represents quality, policies, and process management, in relation to handling your enterprise data. 
+The session will demonstrate the architecture of a Master Data Management solution and the data integration required to implement it within the enterprise.
+In this session, you will learn:
+* A brief introduction to Master Data Management and Data Governance
+* Master Data Management staging architecture
+* Data integration with the entity-based staging tables
+* Batch processing to move data in the MDS specific tables
+* Publishing data to external systems with subscription views and web services
+</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T14:30:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T15:45:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>BI Platform Architecture, Development &amp; Administration</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 116</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39234</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39291)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39291)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39291)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39291)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39291)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39291</d:SessionID>
+        <d:SessionName>Database Continuous Delivery &amp; Your Salvation!</d:SessionName>
+        <d:SessionDescription xml:space="preserve">Continuous Integration &amp; Delivery isn’t a new concept.  Application Developers have been doing it for quite a while and now it’s time for Database Professionals to catch up.  Whether you are a database administrator, database developer, or even an application developer, database continuous delivery can help you find your salvation. I'll show you how to apply these concepts to areas of security, collaboration, testing, support and deployments.   We will look at what continuous delivery means, demonstrate some tools that can help you easily get it into place, and dive into why it’s important.  </d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T09:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T10:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Enterprise Database Administration &amp; Deployment</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 212</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39291</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(38173)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(38173)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(38173)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(38173)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(38173)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">38173</d:SessionID>
+        <d:SessionName>The PROCESS of Queries</d:SessionName>
+        <d:SessionDescription>This session focuses on the PROCESS of queries and how this effects Batches, Transactions, and Error Handling. The session is led by an expert Microsoft Certified Trainer (MCT) who regularly teaches the SQL Server certification courses.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T09:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T10:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Application &amp; Database Development</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 314</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=38173</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(38200)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(38200)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(38200)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(38200)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(38200)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">38200</d:SessionID>
+        <d:SessionName>Profiler is Dead! Long Live Extended Events!</d:SessionName>
+        <d:SessionDescription xml:space="preserve">Did you know that Profiler and SQL Trace are deprecated? I know it still works (even in SQL Server 2016 CTP2), but it will never be updated with the latest features. In fact it will never be updated at all! That means if you want to capture information about any new feature, from version SQL Server 2012 and beyond, you need to use another tool. 
+That new tool is Extended Events (XE). Not only has it replaced Profiler, and can be used to capture information on all new features, but it is a substantially better tool! 
+In this session we will discuss the architecture of Extended Events, how to setup a new trace from scratch or convert an existing Profiler trace, and the new abilities that never existed in Profiler. We will also cover the difference in overhead cost of Profiler and Extended Events.  
+Profiler was a friend of mine, but it is time to embrace the new king! </d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T10:30:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T11:45:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Enterprise Database Administration &amp; Deployment</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 210</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=38200</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(38379)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(38379)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(38379)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(38379)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(38379)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">38379</d:SessionID>
+        <d:SessionName>T-SQL Window Function Performance</d:SessionName>
+        <d:SessionDescription>Window functions were first introduced with SQL Server 2005 and enhanced with SQL Server 2012. They enable easy development and great performance…well, sometimes. Learn what you need to know to take full advantage of these features. What you don’t know can hurt you when you are using window functions.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T09:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T10:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Application &amp; Database Development</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 224</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=38379</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(38498)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(38498)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(38498)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(38498)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(38498)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">38498</d:SessionID>
+        <d:SessionName>Dimensional Modeling Design Patterns: Beyond Basics</d:SessionName>
+        <d:SessionDescription>Dimensional modeling is arguably one of the most important
+fundamentals of business intelligence.  It is still relevant even as
+new technologies like PowerPivot and SSAS Tabular Models are becoming
+more popular.  Correctly modeling your organization's data not only
+protects the most important asset your company has but ensures that
+your data mart or data warehouse will be responsive and capable of
+accommodating emerging requirements.
+
+This session provides a deeper dive into 
+the art of dimensional modeling. We will look at the different types of fact tables and dimension tables, how and when to use them. We will also some approaches to creating rich hierarchies that make reporting a snap. Finally we will cover  physical design choices.This case study and demo based session promises to be very interactive and engaging, bring your toughest Dimensional Modeling quandaries.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T10:30:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T11:45:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>BI Platform Architecture, Development &amp; Administration</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 116</d:SessionRoom>
+        <d:SessionPrerequisites>some basic understanding of dimensional modeling and / or understanding of data warehouse  terminology.</d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=38498</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(38576)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(38576)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(38576)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(38576)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(38576)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">38576</d:SessionID>
+        <d:SessionName>Introduction to Microsoft Azure DocumentDB</d:SessionName>
+        <d:SessionDescription xml:space="preserve">In this session I will demonstrate how to create a DocumentDB instance in Azure, how to work with JSON documents, create Ad hoc queries with familiar SQL syntax, create application logic as stored procedures, triggers and user defined functions (UDFs) using standard JavaScript.
+Goals: 
+#1 Show how to create validate JSON strings using Notepad++, validate the JSON against a schema using C# Newtonsoft dll. Demonstrate how to work with JSON in SQL Server as a reference on how hard it is to work with JSON when it is not natively stored.
+#2 Demo the basics of DocumentDB - Create the database, collections and documents using the web interface.  Demo how to perform basic selects, joins and filtering. Review java script basics as java script is fundamental in creating stored procedures
+#3 Demo of how to work with DocumentDB in a C# by creating collections, documents and querying the database using lync and SQL syntax. 
+
+</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T16:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T17:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Application &amp; Database Development</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 212</d:SessionRoom>
+        <d:SessionPrerequisites>None</d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=38576</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39845)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39845)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39845)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39845)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39845)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39845</d:SessionID>
+        <d:SessionName>A Look At SQL Server 2016 Always Encrypted</d:SessionName>
+        <d:SessionDescription xml:space="preserve">A deep-dive into what is sure to become a very critical feature of SQL Server 2016. We'll walk through some use-cases for the technology, and discuss why this kind of technology is needed - and how it can make a DBA's life easier - including making some regulatory compliance easier. We'll then walk though a typical implementation scenario live, and walk though a few demos and practical examples. </d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T14:30:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T15:45:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Enterprise Database Administration &amp; Deployment</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 210</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39845</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39970)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39970)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39970)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39970)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39970)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39970</d:SessionID>
+        <d:SessionName>Setting up your PowerShell Environment</d:SessionName>
+        <d:SessionDescription>Whether you are new to PowerShell or have some experience, have you ever looked at customizing your environment? Do you know how many profiles PowerShell has?  Do you hate typing a long command and wish there was a shortcut? Do you want to quickly setup your environment so you don’t have to setup the same aliases each time you start PowerShell? Learn the answer to these questions and more during our discussion. You will walk away with many quick tips and tricks you can use immediately.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T10:30:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T11:45:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Enterprise Database Administration &amp; Deployment</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 314</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39970</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(40002)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(40002)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(40002)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(40002)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(40002)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">40002</d:SessionID>
+        <d:SessionName>Power BI: From Nothing to Dashboard in 10 Minutes!</d:SessionName>
+        <d:SessionDescription>You've heard about Power BI, but have you seen the new Power BI v2? In 10 minutes or less, a complete dashboard solution will be built live in front of you--including getting the data, transforming it into something useful, and building a dashboard on top of it. Sound impossible to do within 10 minutes? It isn't!</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime" m:null="true" />
+        <d:SessionDateTimeEnd m:type="Edm.DateTime" m:null="true" />
+        <d:SessionCategory>Lightning Talk  (15 minutes)</d:SessionCategory>
+        <d:SessionTrack>BI Information Delivery</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom></d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=40002</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(40023)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(40023)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(40023)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(40023)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(40023)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">40023</d:SessionID>
+        <d:SessionName>Visualizing Your Indexes - Science vs Art</d:SessionName>
+        <d:SessionDescription>Indexes make queries run faster, right? Not always, no. And finding the right indexes for your needs is often more of an Art than a Science. Attend this session as we take a visual tour of how indexes are laid out and the way data is accessed when indexes are utilized. We will discuss clustered indexes as well as non-clustered indexes and also when to use indexed views along with some other variations.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T13:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T14:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Application &amp; Database Development</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 314</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=40023</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(40084)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(40084)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(40084)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(40084)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(40084)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">40084</d:SessionID>
+        <d:SessionName>Continuous Deployments using SSDT</d:SessionName>
+        <d:SessionDescription>DevOps is a word that gets thrown around a lot these days and is the way most shops will operate in the future. In my presentation I'll show you how to fast forward to the future by automating your deployments from SSDT using Powershell and SQLPackage.exe.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T16:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T17:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Application &amp; Database Development</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 224</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=40084</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(40212)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(40212)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(40212)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(40212)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(40212)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">40212</d:SessionID>
+        <d:SessionName>SQL in SAS and R</d:SessionName>
+        <d:SessionDescription xml:space="preserve">SAS and R, two statistical programming languages, have adopted SQL into their environments. The purpose of this presentation is to introduce novice users to PROC SQL in SAS and the sqldf package in R. Topics cover include select and join statements. </d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T13:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T14:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>BI Information Delivery</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 316</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=40212</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(40214)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(40214)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(40214)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(40214)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(40214)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">40214</d:SessionID>
+        <d:SessionName>Trees, Forests and Predictive Models</d:SessionName>
+        <d:SessionDescription xml:space="preserve">This session will introduce people to a couple of modern forms of data mining for predictive analytics problems. We will review Decision Trees, Random Forests and other ensemble methods. These are methods are highly popular in data science. We will show some cases studies of how these are used in business for increased prediction . </d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T14:30:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T14:45:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Lightning Talk  (15 minutes)</d:SessionCategory>
+        <d:SessionTrack>Advanced Analysis Techniques</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 316</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=40214</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39369)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39369)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39369)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39369)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39369)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39369</d:SessionID>
+        <d:SessionName>Power BI: Architecture, Integration Points, Implementation Options</d:SessionName>
+        <d:SessionDescription>In this session we will review Power BI V2 architecture and integration points with corporate data sources, SaaS services, Azure, and third party apps. We will examine and demonstrate key capabilities in the Power BI web-based service, Power BI Desktop, Excel, and mobile apps. Implementation options for Power BI involving cloud, on-premises, and hybrid approaches will be explored. Finally, the concept of "Bimodal BI" will be introduced with use cases for how Power BI might be utilized for both self-service BI and certain corporate BI initiatives.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T13:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T14:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>BI Platform Architecture, Development &amp; Administration</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 212</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39369</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39505)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39505)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39505)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39505)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39505)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39505</d:SessionID>
+        <d:SessionName>What, Why, and How of Cloud Migrations</d:SessionName>
+        <d:SessionDescription xml:space="preserve">IaaS, PaaS, SaaS, Storage, Hybrid etc. etc.  are you confused?  If you are, that’s ok.  In this session I explore the different capabilities that are available to migrate on-prem workloads to the cloud.  I discuss what workloads are more conducive to a cloud migration and how you can determine the ‘low hanging fruit’.  I will walk you through a framework I developed to examine all the dependencies that you need to understand and evaluate before migrating to the cloud.  I will also lead you through various migration options and architectures that are being commonly deployed in the cloud.  </d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T13:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T14:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Cloud Application Development &amp; Deployment</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 210</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39505</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39511)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39511)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39511)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39511)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39511)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39511</d:SessionID>
+        <d:SessionName>Defense in Depth - Minimizing the Risk of SQL Injection</d:SessionName>
+        <d:SessionDescription>During this session you will be thrust into the role of the DBA hired to fix SQL Server to prevent it from ever getting SQL Injected, or at least minimize the damage that can be done when it does.  From bottom to top this session will cover how services should be configured, how SQL Server should be configured, benefits and risks of SQL Server security configurations, and best practices for app development.  Come learn how to defend your servers from hackers, or how to become a SQL Injection hacker yourself!</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T10:30:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T11:45:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Other</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 224</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39511</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39565)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39565)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39565)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39565)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39565)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39565</d:SessionID>
+        <d:SessionName>Source Control practices for your BI World</d:SessionName>
+        <d:SessionDescription>Source Control is a critical part of any development effort. For small shop developers tools like TFS can be overwhelming especially for developers that come from organizations with little to no source control experience.  Let's talk about practices and ways to implement source control for SSIS, SSRS and Database Projects in both multi-developer and multi-tiered environments.  We will cover when and how to branch, merge and shelve and discuss ideas around process for deployment and continuous integration.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T14:30:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T15:45:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>BI Platform Architecture, Development &amp; Administration</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 224</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39565</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(39733)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(39733)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(39733)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(39733)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(39733)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">39733</d:SessionID>
+        <d:SessionName>Know what your machines are doing besides SQL Server - WMI, WQL, and PoSH</d:SessionName>
+        <d:SessionDescription>There's far more occurring on your Windows servers than just SQL Server, and looking at ERRORLOG won't show you the whole story: other applications stealing your memory, OS issues, hardware errors, and more.  We'll start by looking at different ways to collect Event Logs.  From there we'll delve into WMI and WQL, which allow us to query servers (remotely or locally) to get information such as performance statistics, System and Event Logs, and even changes within SQL Server.
+
+We'll finish it off with two immediately-usable implementations you can set up on Monday.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T14:30:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T15:45:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Enterprise Database Administration &amp; Deployment</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 114</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=39733</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(37041)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(37041)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(37041)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(37041)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(37041)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">37041</d:SessionID>
+        <d:SessionName>"But It Sounded So Simple!":  Building a Messaging System in Service Broker</d:SessionName>
+        <d:SessionDescription>There's a lot of general verbiage and API documentation about Service Broker, but how do you fit the queues, services, contracts, and conversations together to actually make something that will work reliably in production?  In this session you'll follow the architecture, design, implementation, and troubleshooting of a simple but production-tested Service Broker messaging framework and get a battlefield-level view of the pitfalls and the payoffs involved in Service Broker development.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T16:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T17:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Application &amp; Database Development</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 116</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=37041</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(37136)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(37136)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(37136)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(37136)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(37136)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">37136</d:SessionID>
+        <d:SessionName>The Usual SUSPECTs: When Good Databases Go Bad</d:SessionName>
+        <d:SessionDescription>You just finished patching your SQL Server. After rebooting it, though, some of your databases aren't coming online. What do you do? In this session we'll cover some of the various states that a database can be in. We’ll look at useful states like OFFLINE and STANDBY, as well as damaged states like SUSPECT or RECOVERY_PENDING. You’ll learn how databases get into those states, and the proper techniques to bring your data safely back online.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T09:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T10:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Enterprise Database Administration &amp; Deployment</d:SessionTrack>
+        <d:SessionCode>What is</d:SessionCode>
+        <d:SessionRoom>ARP 114</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=37136</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(37351)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(37351)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(37351)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(37351)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(37351)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">37351</d:SessionID>
+        <d:SessionName>Connected at the hip for MS BI: SharePoint and SQL</d:SessionName>
+        <d:SessionDescription>SQL Server has always been the foundation of the Microsoft Business Intelligence (BI) story. However, SharePoint has quickly moved into being the presentation layer for this important data. In this session, you will learn the many different options for combining SharePoint and SQL, the location of all the different pieces, how these pieces communicate, some licensing hints, and how Kerberos helps tie it all together.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T16:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T17:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>BI Platform Architecture, Development &amp; Administration</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 316</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=37351</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(37482)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(37482)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(37482)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(37482)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(37482)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">37482</d:SessionID>
+        <d:SessionName>Navigating the Hadoop Stack</d:SessionName>
+        <d:SessionDescription xml:space="preserve">Hadoop distributions can be a complicated road to navigate. Application names such as Spark, Pig, Hive, Falcon, and Ranger are interesting but give no indication as to what purpose they server or how they can be helpful to your organization. We'll take time in this session to work through the various components (Hortonworks HDP ships with 23 projects) and find which ones fit into your specific needs. </d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T10:30:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T11:45:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>BI Platform Architecture, Development &amp; Administration</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 316</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=37482</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(40749)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(40749)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(40749)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(40749)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(40749)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">40749</d:SessionID>
+        <d:SessionName>In Memory Tables; Not Just For OLTP</d:SessionName>
+        <d:SessionDescription>In Memory OLTP is one of the most popular features of SQL Server 2014. Many BI professionals are finding memory optimized objects make excellent tools in the quiver of the ETL developer as well.  Attend this session to see how "hekaton", memory optimized objects, native stored procedures, and schema only designs can be applied to staging and transformations to achieve  incredible performance gains over traditional models.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T10:30:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T11:45:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>BI Platform Architecture, Development &amp; Administration</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 212</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=40749</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(40303)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(40303)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(40303)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(40303)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(40303)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">40303</d:SessionID>
+        <d:SessionName>What is Biml and why are SSIS people talking about it?</d:SessionName>
+        <d:SessionDescription>This session is designed for you, the experienced SSIS developer who's been hearing about Biml but hasn't taken the plunge. We will cover what Biml is and walk through some examples from Hello World equivalent to a fully baked truncate and reload pattern. You will leave this session armed with the knowledge of how Biml can help you achieve a consistent and reproducible approach for the creation of SSIS solutions.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T16:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T17:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>BI Platform Architecture, Development &amp; Administration</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 210</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=40303</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(40358)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(40358)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(40358)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(40358)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(40358)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">40358</d:SessionID>
+        <d:SessionName>CSI: DW -- Anatomy of a VLDW!</d:SessionName>
+        <d:SessionDescription>Put on your CSI caps as we delve into the anatomy of a Very Large Data Warehouse environment!  During this case study session, we'll take a look at the data warehouse environment at the Department of Veterans Affairs.  The VA is the largest healthcare organization in the US and has an extensive national DW and BI infrastructure, now in its seventh year of evolution.  We'll take a look at the database infrastructure, the data loading process, and the various reporting and analytics solutions that provide over 150,000 knowledge workers and report consumers with timely data and information.  We'll also take a look at some of the processes in place to support the myriad of extended reporting and analytics teams throughout the VA who build and manage second-tier downstream data marts and other reporting solutions.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T13:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T14:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>BI Platform Architecture, Development &amp; Administration</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 116</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Intermediate</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=40358</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(41147)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(41147)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(41147)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(41147)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(41147)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">41147</d:SessionID>
+        <d:SessionName>Power BI Open Q&amp;A</d:SessionName>
+        <d:SessionDescription>Bring your questions, problems, concerns, and ideas to this open Q&amp;A and we'll talk through them. There's no predefined agenda for this session, though potential discussion topics may include things like production considerations, integration with Office 365 unified groups, how to manage organizational content distributed to a group of users, importing vs. connecting to data sources, changes since V1 of Power BI, and use of Excel vs. Power BI Desktop.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T16:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T17:15:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>BI Platform Architecture, Development &amp; Administration</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 114</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=41147</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(41151)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(41151)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(41151)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(41151)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(41151)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">41151</d:SessionID>
+        <d:SessionName>Dell Software Performance Monitoring Solutions for SQL Server</d:SessionName>
+        <d:SessionDescription>A discussion of the Dell Software offerings in the SQL Server Performance  monitoring space.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T12:15:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T12:30:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Lightning Talk  (15 minutes)</d:SessionCategory>
+        <d:SessionTrack>Other</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 114</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=41151</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(41153)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(41153)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(41153)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(41153)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(41153)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">41153</d:SessionID>
+        <d:SessionName>Data Science at Rockhurst</d:SessionName>
+        <d:SessionDescription>Learn more about the Data Science degree and certificate programs sponsored by Rockhurst's Helzberg School of Management</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T12:15:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T12:30:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Lightning Talk  (15 minutes)</d:SessionCategory>
+        <d:SessionTrack>Other</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 116</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=41153</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(41175)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:44:56Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(41175)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(41175)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(41175)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(41175)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">499</d:EventID>
+        <d:SessionID m:type="Edm.Int32">41175</d:SessionID>
+        <d:SessionName>Lightning Talks</d:SessionName>
+        <d:SessionDescription xml:space="preserve">This session will contain 3 lightning talks: "Trees, Forests and Predictive Models" by Myles Gartland; "Power BI: From Nothing to Dashboard in 10 Minutes!" by Steve Wake; "Why Data Viz is Important for All Data Professionals" by Meagan Longoria&#xD;
+</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2015-10-03T14:30:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2015-10-03T15:45:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Regular Session (75 minutes)</d:SessionCategory>
+        <d:SessionTrack>Other</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom>ARP 316</d:SessionRoom>
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>Beginner</d:SessionLevel>
+        <d:SessionURL>https://www.sqlsaturday.com/444/Sessions/Details.aspx?sid=41175</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xml:base="http://feeds.pass.org/public/events/OratorDataService.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">PASS_OData_Orator_Session</title>
+  <id>http://feeds.pass.org/public/events/OratorDataService.svc/Events(920)/PASS_OData_Orator_Session</id>
+  <updated>2020-12-28T21:46:20Z</updated>
+  <link rel="self" title="PASS_OData_Orator_Session" href="PASS_OData_Orator_Session" />
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(83742)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:46:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(83742)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(83742)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(83742)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(83742)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">920</d:EventID>
+        <d:SessionID m:type="Edm.Int32">83742</d:SessionID>
+        <d:SessionName>How to Deliver Database Changes Quicker Whilst Keeping Data Safe</d:SessionName>
+        <d:SessionDescription xml:space="preserve">Your business depends on minimizing the risk to your most valuable asset: your data.&#xD;
+&#xD;
+To achieve this, you need processes that guarantee your data stays protected and changes to your database are flawless, every time, without slowing things down.&#xD;
+&#xD;
+This talk will walk you through the key components of extending DevOps to your databases, and discuss methods of protecting personal data across your SQL Server estate. Database DevOps can help you to:&#xD;
+&#xD;
+•	Establish a reliable, scalable and repeatable process for building, deploying &#xD;
+        and maintaining databases&#xD;
+•	increase speed of delivery of database changes&#xD;
+•	enable faster resolution of issues&#xD;
+•	reduce risk of losing data during the deployment process&#xD;
+•	minimize application downtime&#xD;
+•	Standardize processes across database and application to simplify &#xD;
+        collaboration&#xD;
+•	Automate the audit trail to easily demonstrate compliance&#xD;
+•	free up developers time for more added value work&#xD;
+</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2018-07-10T17:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2018-07-10T18:00:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Breakout Session (60 minutes)</d:SessionCategory>
+        <d:SessionTrack>Database Administration and Development</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom m:null="true" />
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>200</d:SessionLevel>
+        <d:SessionURL>/marathon/2018/do/Sessions/Details.aspx?sid=83742</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(83743)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:46:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(83743)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(83743)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(83743)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(83743)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">920</d:EventID>
+        <d:SessionID m:type="Edm.Int32">83743</d:SessionID>
+        <d:SessionName>Automating Your Data-Centric Deployment Pipeline</d:SessionName>
+        <d:SessionDescription xml:space="preserve">Continuous integration, delivery, and deployment are common elements of modern DevOps practices. However, it’s rare to see these practices put into place for data-centric applications, like databases, ETL, data warehouses, or reports. In this session, we’ll cover why these approaches are beneficial for the data organization and the pieces you need to have in place to be successful. We’ll also cover some of the prime trouble spots that organizations run into, as well as some tools that can help jump start your efforts.&#xD;
+&#xD;
+Agenda:&#xD;
+•	Why automating your data-centric deployments is important&#xD;
+•	What you need to include and why &#xD;
+•	Testing&#xD;
+•	Standards checking&#xD;
+•	Recovery mechanism&#xD;
+•	Production monitoring&#xD;
+•	How to get started&#xD;
+</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2018-07-10T19:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2018-07-10T20:00:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Breakout Session (60 minutes)</d:SessionCategory>
+        <d:SessionTrack>Database Administration and Development</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom m:null="true" />
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>100</d:SessionLevel>
+        <d:SessionURL>/marathon/2018/do/Sessions/Details.aspx?sid=83743</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(83873)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:46:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(83873)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(83873)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(83873)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(83873)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">920</d:EventID>
+        <d:SessionID m:type="Edm.Int32">83873</d:SessionID>
+        <d:SessionName>DevOps, Dev Data and Data Breaches: 5 Solutions</d:SessionName>
+        <d:SessionDescription>Developers want prod data for dev and test purposes. It helps them to write better code and to test it effectively. Self-service access to usable test-data aligns well with DevOps principles that encourage teams to adopt a shift-left mentality to testing.&#xD;
+&#xD;
+Unfortunately, in the age of data breaches and tighter regulation it's unwise to give developers access to some types of sensitive production data.&#xD;
+&#xD;
+So what do you do?&#xD;
+&#xD;
+In this session I’ll talk about the GDPR, anonymisation, pseudonymisation and 5 techniques you can use to provide appropriate data that is as “production-like” as possible (within the legal and technical constraints). I’ll demo these techniques both in raw T-SQL and using some of the Microsoft and third party tools that are available to make the task easier.&#xD;
+&#xD;
+After this session you’ll be equipped to discuss the problem with your colleagues in an informed manner and you’ll be able to suggest several several solutions and their relative pros and cons.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2018-07-10T22:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2018-07-10T23:00:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Breakout Session (60 minutes)</d:SessionCategory>
+        <d:SessionTrack>Database Administration and Development</d:SessionTrack>
+        <d:SessionCode m:null="true" />
+        <d:SessionRoom m:null="true" />
+        <d:SessionPrerequisites>Basic T-SQL skills.</d:SessionPrerequisites>
+        <d:SessionLevel>300</d:SessionLevel>
+        <d:SessionURL>/marathon/2018/do/Sessions/Details.aspx?sid=83873</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(83902)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:46:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(83902)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(83902)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(83902)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(83902)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">920</d:EventID>
+        <d:SessionID m:type="Edm.Int32">83902</d:SessionID>
+        <d:SessionName>I Needed to Install 80 SQL Servers…Fast. Here’s How I Did It!</d:SessionName>
+        <d:SessionDescription>Challenged with this problem, let me show you how I used PowerShell Desired State Configuration to deploy and configure 80 SQL Servers for a client, fast! For this task, I needed to go from DSC Zero to DSC Hero. In this “notes from the field” session, I’ll share with you how I was able to achieve my client’s goals.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2018-07-10T20:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2018-07-10T21:00:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Breakout Session (60 minutes)</d:SessionCategory>
+        <d:SessionTrack>Database Administration and Development</d:SessionTrack>
+        <d:SessionCode m:null="true" />
+        <d:SessionRoom m:null="true" />
+        <d:SessionPrerequisites>Basic PowerShell proficiency</d:SessionPrerequisites>
+        <d:SessionLevel>300</d:SessionLevel>
+        <d:SessionURL>/marathon/2018/do/Sessions/Details.aspx?sid=83902</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(83941)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:46:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(83941)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(83941)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(83941)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(83941)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">920</d:EventID>
+        <d:SessionID m:type="Edm.Int32">83941</d:SessionID>
+        <d:SessionName>DevOps and the DBA</d:SessionName>
+        <d:SessionDescription>You may have heard the word "DevOps" and wondered whether it is just another buzzword and/or what it can do for you.&#xD;
+&#xD;
+In this session I will demystify the concepts of DevOps and we will look at two aspects of DevOps - Continuous Integration &amp; Continuous Delivery.&#xD;
+&#xD;
+Continuous Integration is the practice in which software developers frequently integrate their work with that of other members of the development team. It also involves automating tests around the integrated work&#xD;
+&#xD;
+?Continuous Delivery is the next step after Continuous Integration in the deployment pipeline and is the process of automating the deployment of software to  test, staging, and production environments.&#xD;
+&#xD;
+Database migrations/changes are an area that may not be typically automated or utilise Continuous Delivery.&#xD;
+&#xD;
+Through the use of a comprehensive live demo to a running database hosted in Azure the audience will learn the benefits and how to implement Continuous Delivery in their database systems deployment pipeline.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2018-07-10T18:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2018-07-10T19:00:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Breakout Session (60 minutes)</d:SessionCategory>
+        <d:SessionTrack>Database Administration and Development</d:SessionTrack>
+        <d:SessionCode m:null="true" />
+        <d:SessionRoom m:null="true" />
+        <d:SessionPrerequisites>A basic understanding of SQL Server is helpful but not mandatory.</d:SessionPrerequisites>
+        <d:SessionLevel>200</d:SessionLevel>
+        <d:SessionURL>/marathon/2018/do/Sessions/Details.aspx?sid=83941</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(83990)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:46:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(83990)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(83990)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(83990)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(83990)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">920</d:EventID>
+        <d:SessionID m:type="Edm.Int32">83990</d:SessionID>
+        <d:SessionName>DevOps: What you Should Know Before you Start to Avoid the Pain and Humiliation</d:SessionName>
+        <d:SessionDescription xml:space="preserve">A DevOps mindset is all about failing fast, but why fail at something that many have already failed but subsequently succeeded at in the past. Learn from others experiences to make your DevOps adoption even more successful. &#xD;
+&#xD;
+In this session we will go through some principles of a DevOps approach that we have established that underpin how we do DevOps. Some are intuitive and you’ll go “Duh” but others aren’t and its likely these not so obvious ones are the ones that  if you don’t follow, in 6 months you’ll have a “Doh” moment when you realise why you should have listened.&#xD;
+We will look at areas like: Shift Left, To Share or Not To Share, Test Driven Development, Small Change, Green is King, Monitoring is more important than testing, Changing the wings will the plan is flying.&#xD;
+&#xD;
+After this session you should have a grasp of some of the core principles that we believe are essential for any DevOps implementation. You will be able to take them to your project to make your adoption of DevOps even more successful.&#xD;
+</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2018-07-10T21:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2018-07-10T22:00:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Breakout Session (60 minutes)</d:SessionCategory>
+        <d:SessionTrack>Database Administration and Development</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom m:null="true" />
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>100</d:SessionLevel>
+        <d:SessionURL>/marathon/2018/do/Sessions/Details.aspx?sid=83990</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+</feed>

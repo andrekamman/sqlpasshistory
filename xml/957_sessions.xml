@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xml:base="http://feeds.pass.org/public/events/OratorDataService.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">PASS_OData_Orator_Session</title>
+  <id>http://feeds.pass.org/public/events/OratorDataService.svc/Events(957)/PASS_OData_Orator_Session</id>
+  <updated>2020-12-28T21:46:27Z</updated>
+  <link rel="self" title="PASS_OData_Orator_Session" href="PASS_OData_Orator_Session" />
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(87423)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:46:27Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(87423)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(87423)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(87423)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(87423)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">957</d:EventID>
+        <d:SessionID m:type="Edm.Int32">87423</d:SessionID>
+        <d:SessionName>Getting Started locally with SQL Server and Kubernetes</d:SessionName>
+        <d:SessionDescription>Kubernetes is becoming a go-to platform for companies as they explore the realm of containers and microservices.  Kubernetes has proven itself in the web application stack but what about databases?  Microsoft has invested a considerable amount of effort into containerizing Microsoft SQL Server starting with SQL Server 2017.  However, the documentation provided involves running SQL Server in a docker container...what about Kubernetes?&#xD;
+&#xD;
+This session involves installing, connecting and working with a local (on your laptop or desktop) Microsoft SQL Server Express instance on Kubernetes.  The goal is to show an administrator or developer how to get started with Microsoft SQL Server locally using components like minikube, Kubernetes, Helm and SSMS. We will explain each component used in the setup, how to install them and finally connect SSMS to our Microsoft SQL Server instance on a local Kubernetes installation.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2018-12-12T16:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2018-12-12T17:00:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Breakout Session (60 minutes)</d:SessionCategory>
+        <d:SessionTrack>Application Development</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom m:null="true" />
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>100</d:SessionLevel>
+        <d:SessionURL>/marathon/2018/developer/Sessions/Details.aspx?sid=87423</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(87484)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:46:27Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(87484)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(87484)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(87484)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(87484)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">957</d:EventID>
+        <d:SessionID m:type="Edm.Int32">87484</d:SessionID>
+        <d:SessionName>tSQLt - How to Unit Test Your Database Code for Free</d:SessionName>
+        <d:SessionDescription xml:space="preserve">Unit testing is a design approach which has enabled application developers to write (and deploy) cleaner code. It is also relevant for database development as it ensures that code produced utilizing unit tests will be of higher quality which means interactions with data will be safer. Unit testing allows you to test procedures and functions (units of code) and in doing so we can verify those units of code work as expected, which improves the overall quality of our code.&#xD;
+&#xD;
+This session will introduce you to tSQLt - a unit test framework - which allows data professionals to easily unit test their code in the same manner that application developers have for decades. One of the best aspects of tSQLt is that allows the unit tests to be written in T-SQL, which means that DBAs do not have to learn another language and more importantly they can use it in SQL Server Management Studio. The other aspect of tSQLt is that it is a free open source framework which means you can also contribute ideas/features back. &#xD;
+&#xD;
+In this session we will look at how to implement tSQLt, use it in a variety of ways and how even if you have no existing unit tests and a large code base, you can start writing tests now to make the deployment of your database code safer.&#xD;
+</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2018-12-12T18:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2018-12-12T19:00:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Breakout Session (60 minutes)</d:SessionCategory>
+        <d:SessionTrack>Database Administration and Development</d:SessionTrack>
+        <d:SessionCode></d:SessionCode>
+        <d:SessionRoom m:null="true" />
+        <d:SessionPrerequisites></d:SessionPrerequisites>
+        <d:SessionLevel>100</d:SessionLevel>
+        <d:SessionURL>/marathon/2018/developer/Sessions/Details.aspx?sid=87484</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(87232)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:46:27Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(87232)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(87232)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(87232)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(87232)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">957</d:EventID>
+        <d:SessionID m:type="Edm.Int32">87232</d:SessionID>
+        <d:SessionName>Lets go deep in SQL Server Unit Testing with Visual Studio</d:SessionName>
+        <d:SessionDescription>Everyone that has been involved in the Database Development can notice how huge the impact of a bug can be, especially when these kinds of mistakes could be easily avoided through the Test Driven Development (TDD) approach.&#xD;
+&#xD;
+When you start to google search about how to start implementing Unit Testing for SQL Server you always find tSQLt as the first result returned, however, the extremely low number of downloads tell us about the issue with this implementation. Some possible causes could be explained, such as the lack of a free UI tool for executing the tests, but I have been working with many full-stack developers and one of the most important complaints is related to the fact that AAA (Arrange-Act-Assert) is not native and they can’t feel a soft transition in their regular tasks for Unit Testing with Databases.&#xD;
+&#xD;
+In this presentation, I would like to focus on how to get a better performance through the SQL Unit Test feature of Visual Studio, how to overcome the problems.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2018-12-12T17:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2018-12-12T18:00:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Breakout Session (60 minutes)</d:SessionCategory>
+        <d:SessionTrack>Database Administration and Development</d:SessionTrack>
+        <d:SessionCode m:null="true" />
+        <d:SessionRoom m:null="true" />
+        <d:SessionPrerequisites>-Visual Studio 2015 +
+- SSMS</d:SessionPrerequisites>
+        <d:SessionLevel>200</d:SessionLevel>
+        <d:SessionURL>/marathon/2018/developer/Sessions/Details.aspx?sid=87232</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://feeds.pass.org/public/events/OratorDataService.svc/Sessions(87262)</id>
+    <title type="text"></title>
+    <updated>2020-12-28T21:46:27Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="Session" href="Sessions(87262)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_Event" type="application/atom+xml;type=entry" title="PASS_OData_Orator_Event" href="Sessions(87262)/PASS_OData_Orator_Event" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionSpeaker" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionSpeaker" href="Sessions(87262)/PASS_OData_Orator_SessionSpeaker" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/PASS_OData_Orator_SessionFile" type="application/atom+xml;type=feed" title="PASS_OData_Orator_SessionFile" href="Sessions(87262)/PASS_OData_Orator_SessionFile" />
+    <category term="OratorModelNS.Session" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:EventID m:type="Edm.Int32">957</d:EventID>
+        <d:SessionID m:type="Edm.Int32">87262</d:SessionID>
+        <d:SessionName>Entity Framework Performance Monitoring and Tuning</d:SessionName>
+        <d:SessionDescription>Object Relational Mapping technologies, including the Entity Framework can drastically simplify the programming model against databases, but when done carelessly, performance can suffer. In this session, we'll explore some real-life strategies that have solved performance issues in production applications that I have encountered at a variety of customers. We'll discuss the pros and cons of working without stored procs and cover strategies for monitoring and tuning your entity queries.</d:SessionDescription>
+        <d:SessionDateTimeStart m:type="Edm.DateTime">2018-12-12T15:00:00</d:SessionDateTimeStart>
+        <d:SessionDateTimeEnd m:type="Edm.DateTime">2018-12-12T16:00:00</d:SessionDateTimeEnd>
+        <d:SessionCategory>Breakout Session (60 minutes)</d:SessionCategory>
+        <d:SessionTrack>Application Development</d:SessionTrack>
+        <d:SessionCode m:null="true" />
+        <d:SessionRoom m:null="true" />
+        <d:SessionPrerequisites>LINQ and Entity Framework</d:SessionPrerequisites>
+        <d:SessionLevel>300</d:SessionLevel>
+        <d:SessionURL>/marathon/2018/developer/Sessions/Details.aspx?sid=87262</d:SessionURL>
+        <d:SessionEvalURL m:null="true" />
+        <d:SessionAttendance m:type="Edm.Int32" m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+</feed>
