@@ -15,7 +15,7 @@ Event Date: 31-05-2018 20:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Jen Stirrup
 ## Title: Deep Learning in Microsoft Azure: CNTK, CaffeOnSpark and Tensorflow
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 82605
 # Machine Learning with SQL Server 2016 and 2017
@@ -24,7 +24,7 @@ Event Date: 31-05-2018 21:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Leila Etaati
 ## Title: Machine Learning with SQL Server 2016 and 2017
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 82606
 # Chatbots and AI are Transforming the Future of Work
@@ -33,12 +33,7 @@ Event Date: 31-05-2018 22:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Anupama Natarajan
 ## Title: Chatbots and AI are Transforming the Future of Work
 ## Description:
-### AI powered Chatbots can automate and streamline repetitive and routine tasks in the Workspace. Based on the organization’s needs, Chatbot platforms enable the creation of customized bots to automate the business processes and empower teams. 
-
-In this session you will get to learn about the use cases where Chatbots can transform the Future of Work using Microsoft Bot Service, Language Understanding Intelligent Service (LUIS) and Machine Learning.
-a) Customer Support
-b) Empower IT and HR Departments
-c) Knowledge Empowerment using Q & A
+### 
 # 
 #### SessionID: 82608
 #  AI in the Workplace
@@ -47,4 +42,4 @@ Event Date: 31-05-2018 23:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Ed Lavieri
 ## Title:  AI in the Workplace
 ## Description:
-### Artificial Intelligence (AI) empowers businesses to leverage the deluge of data that is collected today and to help make informed decisions. AI is part of our society and workplace in several forms from software algorithms to anthropomorphic robotics. This session covers the types of AI, the status of AI in our world, the magic behind AI, the impact of AI on our workplace, and the future of AI in our society. Join this session to gain a deeper understanding of artificial intelligence and why it is a must for businesses to remain competitive in our modern society.
+### 

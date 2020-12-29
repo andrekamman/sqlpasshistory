@@ -13,7 +13,7 @@ Event Date: 11-01-2017 08:30 - Category: Full Day Session (full day hands-on wor
 ## Speaker(s): David Smith
 ## Title: In-database analytics with R and SQL Server 2016
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 59853
 # Mastering Power BI Solutions
@@ -22,4 +22,4 @@ Event Date: 11-01-2017 08:30 - Category: Full Day Session (full day hands-on wor
 ## Speaker(s): Paul Turley
 ## Title: Mastering Power BI Solutions
 ## Description:
-### System.Xml.XmlElement
+### 

@@ -35,7 +35,7 @@ Event Date: 01-12-2015 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Alejandro Cordero
 ## Title: La receta de la abuela para mejores Cargas de Datos!
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 45628
 # Introducción a Azure Data Warehouse
@@ -44,7 +44,7 @@ Event Date: 01-12-2015 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): César Oviedo
 ## Title: Introducción a Azure Data Warehouse
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 45629
 # Principios de diseño para procesos de ETL
@@ -53,7 +53,7 @@ Event Date: 01-12-2015 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): 
 ## Title: Principios de diseño para procesos de ETL
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 41590
 # Automatizando la generación de Datawarehouses a través de metadatos.
@@ -62,7 +62,7 @@ Event Date: 01-12-2015 13:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Miguel Egea
 ## Title: Automatizando la generación de Datawarehouses a través de metadatos.
 ## Description:
-### Nos enfrentamos cada vez a retos mas difíciles y complejos en la creación de Datawarehouses con SQL Server. Esto nos hace pensar en como quitarnos el trabajo superfluo, el que no aporta valor de negocio para centrar nuestras energías en resolver las cuestiones propias del negocio. La charla explorará alguna de las posibilidades de automatización de creación de procesos ETL. Para ello hablaremos de BIML, SSIS, JSON y metadatos.
+### 
 # 
 #### SessionID: 41591
 # VMs de Alto Rendimiento para SQL Server en AWS y Azure
@@ -71,7 +71,7 @@ Event Date: 01-12-2015 14:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Warner Chaves
 ## Title: VMs de Alto Rendimiento para SQL Server en AWS y Azure
 ## Description:
-### Primero todo era puro metal, luego la virtualizacion inicio la revolucion. Ahora la nube va a cambiar el data center de nuevo con su rapidez de provicionamiento y ofrecimiento de recursos bajo demanda. Pero como eligimos las mejores opciones para maquinas virtuales de SQL en estos proveedores de nube? Venga y aprenda sobre las mejores configuraciones, tips y lecciones aprendidas de clientes que han movido sus SQL Servers de alto rendimiento a la nube.
+### 
 # 
 #### SessionID: 41592
 # Analizando patrones con SQL, Excel, Azure ML, R y más
@@ -80,7 +80,7 @@ Event Date: 01-12-2015 15:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Ana Maria Bisbé York
 ## Title: Analizando patrones con SQL, Excel, Azure ML, R y más
 ## Description:
-### En la actualidad tenemos a nuestra disposición una gran variedad de herramientas para análisis y búsqueda de patrones en datos de formatos muy diversos. Entre las más destacadas se incluyen soluciones que llegan del mundo académico como R, otras integradas en la esfera productiva como SQL Server Analysis Services o Excel, y más recientemente, plataformas ‘Software as a Service” como Azure Machine Learning.
+### 
 # 
 #### SessionID: 41593
 # Administración de Soluciones de Power BI
@@ -89,7 +89,7 @@ Event Date: 01-12-2015 16:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Guillermo Caicedo
 ## Title: Administración de Soluciones de Power BI
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 41594
 # Aplicaciones de BI móvil para Microsoft SQL Server
@@ -98,7 +98,7 @@ Event Date: 01-12-2015 17:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): John Alexander Bulla Torres
 ## Title: Aplicaciones de BI móvil para Microsoft SQL Server
 ## Description:
-### Con la adquisición de Datazen Software Inc por parte de Microsoft, el producto de Datazen se une al stack de SQL Server. Datazen es una solución de BI que permite una interactiva visualización de datos y KPIs que pueden ser consumidos desde las principales plataformas móviles como Windows, iOS y Android y que está totalmente optimizada para trabajar con SQL Server, SQL Server Analysis Services y en general sobre la plataforma de Microsoft.
+### 
 # 
 #### SessionID: 41595
 # Tecnicas Avanzadas de Monitoreo
@@ -107,11 +107,7 @@ Event Date: 01-12-2015 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Javier Villegas
 ## Title: Tecnicas Avanzadas de Monitoreo
 ## Description:
-### En esta charla estaremos demostrando Tecnicas avanzadas de Monitoreo tales como
-- Analizando la actividad de SQL Server
-- Utilizando Extended events para realizar monitoreo en SQL Server
-- monitoreo proactivo
-- Auditoria Utilizando Service Broker
+### 
 # 
 #### SessionID: 41596
 # Mejores Prácticas para SQL-Server en Ambientes Virtualizados
@@ -120,7 +116,7 @@ Event Date: 01-12-2015 19:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Carlos Rojas Vargas
 ## Title: Mejores Prácticas para SQL-Server en Ambientes Virtualizados
 ## Description:
-### Recomendaciones sobre configuraciones en Máquinas Virtuales, Almacenamiento, Redes y otros components al ejecutar SQL-Server en ambientes Virtualizados como Hyper-V y Windows Azure con ejemplos prácticos.
+### 
 # 
 #### SessionID: 41615
 # Escenarios de análisis de datos con los Power: Pivot, View & Query. También con Power BI y Datazen.
@@ -129,7 +125,7 @@ Event Date: 01-12-2015 21:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Guillermo Taylor
 ## Title: Escenarios de análisis de datos con los Power: Pivot, View & Query. También con Power BI y Datazen.
 ## Description:
-### Hoy en día requerimos analizar nuestros datos y generar información para la toma de decisiones. En esta sesión veremos como los Power en Excel (Pivot, View & Query), además de Power BI y Datazen nos pueden ayudar en estos análisis con escenarios reales y uno que otro divertido pero iguales de interesantes.
+### 
 # 
 #### SessionID: 41616
 # Planeando e Implementando Servicios de Datos con Microsoft Azure.
@@ -138,7 +134,7 @@ Event Date: 01-12-2015 22:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Adrian Miranda
 ## Title: Planeando e Implementando Servicios de Datos con Microsoft Azure.
 ## Description:
-### Analizaremos las diferencias entre bases de datos SQL Server on premise y Azure SQL Database. Como implementar SQL Azure Database, como migrar, monitorear y mantener la continuidad operativa con Self Service Restore y Geo Replicación.
+### 
 # 
 #### SessionID: 41617
 # Migrando a SQL Server 2016
@@ -147,8 +143,7 @@ Event Date: 01-12-2015 23:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Jesus Gil Velasco
 ## Title: Migrando a SQL Server 2016
 ## Description:
-### Con la llegada de SQL Server 2016, se abre una nueva oportunidad para migrarte a una nueva versión
-Acompáñame a esta sesión para decirte, el porque?, el cómo? y el para que? debemos de migrarnos a esta última versión de SQL Server.
+### 
 # 
 #### SessionID: 41618
 # SQL Server 2016 - Stretch Databases
@@ -157,7 +152,7 @@ Event Date: 02-12-2015 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Kenneth Urena
 ## Title: SQL Server 2016 - Stretch Databases
 ## Description:
-### En esta session vamos a ver como configurar la nueva funcionalidad de SQL Server 2016 Stretch Databases, y los beneficios que podemos obtener de ella en nuestra estrategia de alta disponibilidad.
+### 
 # 
 #### SessionID: 41620
 # Cuadros de Mando: El todo es más que la suma de las partes
@@ -166,7 +161,7 @@ Event Date: 02-12-2015 14:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Salvador Ramos
 ## Title: Cuadros de Mando: El todo es más que la suma de las partes
 ## Description:
-### No es suficiente con hacer tablas, gráficos y/o indicadores de forma individual. Debemos pensar en agregar valor a la visualización y el análisis con un conjunto de estos elementos que se complementen entre sí para enriquecer las respuestas. En esta sesión veremos diversas técnicas de visualización para mejorar los cuadros de mando, incluso algunas de ellas también se pueden aplicar sobre informes. Veremos también diversos ejemplos, en algunos de ellos partiremos de una mala solución que iremos comentando y mejorando.
+### 
 # 
 #### SessionID: 41621
 # Como Leer Planes de Ejecución
@@ -175,7 +170,7 @@ Event Date: 02-12-2015 15:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Enrique Bañuls
 ## Title: Como Leer Planes de Ejecución
 ## Description:
-### Todo el mundo que trabaja con base de datos siempre se ha preguntado alguna vez qué son los planes de ejecución y como se leen. Saber leer un plan de ejecución nos va a dar información valiosísima de cara a mejorar el rendimiento de una consulta. En esta sesión vamos a centrarnos en aprender a leer T-SQL para interpretar lo que está haciendo SQL Server para devolvernos la información.
+### 
 # 
 #### SessionID: 41622
 # Machine Learning
@@ -184,7 +179,7 @@ Event Date: 02-12-2015 16:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Alan Koo
 ## Title: Machine Learning
 ## Description:
-### El Aprendizaje Automático (AA), conocido en inglés como Machine Learning, es una rama de la Inteligencia Artificial en la cual su principal objetivo es desarrollar técnicas que permitan a las computadoras aprender, es decir, se considera como un proceso de inducción del conocimiento. Dentro de las aplicaciones de aprendizaje automático están diversas aplicaciones de negocio como motores de búsqueda, diagnósticos médicos, detección de fraude en el uso de tarjetas de crédito, análisis del mercado de valores, clasificación de secuencias de ADN, reconocimiento del habla entre otros. En esta sesión presentaremos alguno de los conceptos fundamentales del AA y mostraremos cómo crear este tipo de soluciones usando Azure Machine Learning, el nuevo servicio de Azure completamente administrado en la nube y que puede ser integrado en nuestras aplicaciones tradicionales de negocio.
+### 
 # 
 #### SessionID: 41623
 # Descubriendo el corazón de la optimización “Estadísticas más que un concepto”
@@ -193,7 +188,7 @@ Event Date: 02-12-2015 17:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Ahias Portillo
 ## Title: Descubriendo el corazón de la optimización “Estadísticas más que un concepto”
 ## Description:
-### Las estadísticas son la base para calcular los registros en un query y permite a Sql Server calcular y solicitar recursos necesarios para el mejor procesamiento. En eta sesión vamos a explicar que son, como funcionan y cómo influyen en la ejecución de consultas.
+### 
 # 
 #### SessionID: 41624
 # Deep Dive PowerBI 2.0
@@ -202,7 +197,7 @@ Event Date: 02-12-2015 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Juan Alvarado
 ## Title: Deep Dive PowerBI 2.0
 ## Description:
-### PowerBI es una evolucion de lo que conociamos como Power BI para office 365.  Aca en esta sesion se vera los cambios y la arquitectura de la solucion.  Ademas de tips and tricks de la herramienta en cuanto al desarollo en dashboards y sus servicios en la nube.
+### 
 # 
 #### SessionID: 41625
 # Planificación y Preparación Para Actualizar a SQL Database v12
@@ -211,7 +206,7 @@ Event Date: 02-12-2015 19:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): German Cayo
 ## Title: Planificación y Preparación Para Actualizar a SQL Database v12
 ## Description:
-### En esta sesión tomaremos en cuenta todos los pasos previos que debemos tener para la actualización a la ultima versión de SQL Database en Microsoft Azure, asi como describiremos los principales detalles implementados en esta nueva versión.
+### 
 # 
 #### SessionID: 41626
 # Mejores Prácticas de DataWarehouse con SQL Server
@@ -220,7 +215,7 @@ Event Date: 02-12-2015 20:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Eduardo Castro
 ## Title: Mejores Prácticas de DataWarehouse con SQL Server
 ## Description:
-### En esta sesión veremos las mejores prácticas de diseño desempeño para DataWarehouse con SQL server 2014
+### 
 # 
 #### SessionID: 41628
 # AlwaysOn en SQL Server 2016
@@ -229,7 +224,7 @@ Event Date: 02-12-2015 22:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Andrei Garzon
 ## Title: AlwaysOn en SQL Server 2016
 ## Description:
-### En esta sesión se presentarán las novedades de SQL Server 2016 asociadas a alta disponibilidad y recuperación de desastres
+### 
 # 
 #### SessionID: 41629
 # Optimizando SQL Server 2014 para MS Dynamics AX 2012 R3 (ERP)
@@ -238,7 +233,7 @@ Event Date: 02-12-2015 23:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Juan Rafael
 ## Title: Optimizando SQL Server 2014 para MS Dynamics AX 2012 R3 (ERP)
 ## Description:
-### En esta sesión se vera la configuración básica de un ERP como MS Dynamics AX para tener buenos resultados en rendimiento.
+### 
 # 
 #### SessionID: 41630
 # Procesando XML de Estructuras Complejas con SSIS
@@ -247,4 +242,4 @@ Event Date: 03-12-2015 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Carlos A. Ulate Hernandez
 ## Title: Procesando XML de Estructuras Complejas con SSIS
 ## Description:
-### En esta sesión vamos aprender como procesar y manejar la carga de XML con estructuras complejas, los cuales dentro del mismo XML contienen información que va a diferentes tablas en la misma base de datos o a diferentes bases de datos
+### 

@@ -35,7 +35,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Karen Lopez
 ## Title: Panel: I Was Young and Didn't Know Any Better
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2568
 # High Volume Data Processing Techniques Without Driving Your DBA Crazy!
@@ -44,7 +44,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Julie Koesmarno
 ## Title: High Volume Data Processing Techniques Without Driving Your DBA Crazy!
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2571
 # What to Look for in SQL Server 2012 Execution Plans
@@ -53,7 +53,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Grant Fritchey
 ## Title: What to Look for in SQL Server 2012 Execution Plans
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2555
 # STOP! Consolidate and Listen!
@@ -62,7 +62,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Jorge Segarra
 ## Title: STOP! Consolidate and Listen!
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2558
 # Introducing SQL Server Data Tools (SSDT)
@@ -71,7 +71,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Nabeel Derhem
 ## Title: Introducing SQL Server Data Tools (SSDT)
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2562
 # Moves Like Jagger - Upgrading to SQL Server 2012
@@ -80,7 +80,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Mark Broadbent
 ## Title: Moves Like Jagger - Upgrading to SQL Server 2012
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2586
 # Improving the Performance of your Data Warehouse Queries with Columnstore Indexes
@@ -89,7 +89,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Benjamin Nevarez
 ## Title: Improving the Performance of your Data Warehouse Queries with Columnstore Indexes
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2593
 # Performance Tuning for Pirates!
@@ -98,7 +98,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): John Sterrett
 ## Title: Performance Tuning for Pirates!
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2609
 # Upgrading and Overhauling Your SSIS Packages for 2012
@@ -107,7 +107,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): 
 ## Title: Upgrading and Overhauling Your SSIS Packages for 2012
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2572
 # Automate Policy-Based Management Using PowerShell
@@ -116,7 +116,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Allen White
 ## Title: Automate Policy-Based Management Using PowerShell
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2574
 # Enterprise Data Mining with SQL Server
@@ -125,7 +125,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Mark Tabladillo
 ## Title: Enterprise Data Mining with SQL Server
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2582
 # SQL Server 2012 Memory Management
@@ -134,7 +134,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Neil Hambly
 ## Title: SQL Server 2012 Memory Management
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2340
 # Where Are My (Primary) Keys?
@@ -143,7 +143,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Ami Levin
 ## Title: Where Are My (Primary) Keys?
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2515
 # VertiPaq Under the Hood
@@ -152,7 +152,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Marco Russo
 ## Title: VertiPaq Under the Hood
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2516
 # SQL Server First Responder Kit
@@ -161,7 +161,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Kendra Little
 ## Title: SQL Server First Responder Kit
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2309
 # Persistence in the Cloud: How to Use Azure Storage
@@ -170,7 +170,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): David Giard
 ## Title: Persistence in the Cloud: How to Use Azure Storage
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2329
 # Tier-1 BI in the Age of Bees and Elephants
@@ -179,7 +179,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Denny Lee
 ## Title: Tier-1 BI in the Age of Bees and Elephants
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2336
 # SQL 2012 - HA and DR Lots of New Options
@@ -188,7 +188,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track:
 ## Speaker(s): Joseph D'Antoni
 ## Title: SQL 2012 - HA and DR Lots of New Options
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2538
 # A Window into Your Data: Using Window Functions in T-SQL
@@ -197,7 +197,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track:
 ## Speaker(s): Steve Hughes
 ## Title: A Window into Your Data: Using Window Functions in T-SQL
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2544
 # A Deep Dive in SQL Server 2012 Data Warehousing
@@ -206,7 +206,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Dejan Sarka
 ## Title: A Deep Dive in SQL Server 2012 Data Warehousing
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2549
 # SSIS Tips & Tricks
@@ -215,7 +215,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Josef Richberg
 ## Title: SSIS Tips & Tricks
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2519
 # Integrating DQS, MDS and Your Data Warehouse
@@ -224,7 +224,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Christopher Price
 ## Title: Integrating DQS, MDS and Your Data Warehouse
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2529
 # Implementing SQL Server 2012 on Windows Server Core
@@ -233,7 +233,7 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Edwin M Sarmiento
 ## Title: Implementing SQL Server 2012 on Windows Server Core
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 2534
 # Fitting Microsoft Hadoop into your Enterprise BI Strategy
@@ -242,4 +242,4 @@ Event Date: 26-03-2012 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Cindy Gross
 ## Title: Fitting Microsoft Hadoop into your Enterprise BI Strategy
 ## Description:
-### System.Xml.XmlElement
+### 

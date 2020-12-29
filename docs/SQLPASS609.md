@@ -35,7 +35,7 @@ Event Date: 20-09-2016 08:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): serge Luca
 ## Title: Configuration et Optimisation Sql server pour SharePoint.
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 53479
 # Tempdb et bonnes pratiques
@@ -44,9 +44,7 @@ Event Date: 20-09-2016 09:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): David Barbarin
 ## Title: Tempdb et bonnes pratiques
 ## Description:
-### Vous avez probablement entendu parler de la base de donn&#233;es tempdb sous SQL Server car celle-ci est &#224; l&#39;origine de nombreux sujets ou debats autour des bonnes pratiques de configuration pour la performance. 
-
-Dans cette session je vous propose de decouvrir pourquoi cette base de donnees peut effectivement &#234;tre tr&#232;s sollicitee dans vos environnements et comment configurer tempdb pour repondre au mieux aux exigences de performance requises
+### 
 # 
 #### SessionID: 53225
 # Power BI, SQL Server et ColumnStore : vous allez adorer !
@@ -55,11 +53,7 @@ Event Date: 20-09-2016 10:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Dung Thoi
 ## Title: Power BI, SQL Server et ColumnStore : vous allez adorer !
 ## Description:
-### Nous passerons en revue les solutions pour connecter Power BI directement aux différents moteurs de données, sans passer par son stockage natif avec ses restrictions :
-• SSAS : avec la nouvelle passerelle renommée " On-premises data gateway ", la connexion sur Analysis Service se fait tout simplement
-• SQL Server : savez-vous que le mode " DirectQuery " traduit à la volée les requêtes DAX de Power BI en SQL applicables directement sur un data warehouse ? Ajoutez le " ColumnStore ", et vous obtenez une solution ROLAP particulièrement simple et performant
-• Azure SQL Database : en ce qui concerne le data warehousing, ce que l’on peut faire avec SQL Server, on peut le faire avec Azure SQL Database et Azure Data Warehouse ; dans ce cas, il n’y a plus besoin de gateway ni de maintenance puisqu’il s’agit d’une combinaison SaaS et PaaS.
-Bien s&#251;r, nous démontrerons toutes ces options, nous fournirons des résultats quantitatifs et qualitatifs.
+### 
 # 
 #### SessionID: 53405
 # Service Broker, le mal-aimé
@@ -68,7 +62,7 @@ Event Date: 20-09-2016 11:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Philippe Geiger
 ## Title: Service Broker, le mal-aimé
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 53673
 # Azure Data Factory, Mouvement de données hybride
@@ -77,7 +71,7 @@ Event Date: 20-09-2016 12:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Jean-Pierre Riehl
 ## Title: Azure Data Factory, Mouvement de données hybride
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 53674
 # Partage et Collaboration avec Power BI
@@ -86,7 +80,7 @@ Event Date: 20-09-2016 13:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Jean-Pierre Riehl
 ## Title: Partage et Collaboration avec Power BI
 ## Description:
-### Power BI offre de nombreuses solutions pour travailler à plusieurs sur un modèle, un rapport ou un tableau de bord. Cette session passe en revue les fonctionnalités de partage et de collaboration de Power BI avec leurs avantages et leurs inconvénients.
+### 
 # 
 #### SessionID: 53280
 # Big Data dans le Cloud avec Cortana Intelligence
@@ -95,9 +89,7 @@ Event Date: 20-09-2016 14:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Florian Eiden
 ## Title: Big Data dans le Cloud avec Cortana Intelligence
 ## Description:
-### Lors de cette session nous ferons un point sur les produits data qu'offre Microsoft dans son cloud Azure à travers la gamme de produit Cortana Intelligence.
-
-A travers Cortana Intelligence, Microsoft met à disposition des produits de transprot et gestion de données, de Big Data, de Machine Learning, et bien d'autres.
+### 
 # 
 #### SessionID: 53137
 # Développer avec un Simple Object Mapping Toolkit pour SQL Server
@@ -106,7 +98,7 @@ Event Date: 20-09-2016 15:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Denis Voituron
 ## Title: Développer avec un Simple Object Mapping Toolkit pour SQL Server
 ## Description:
-### La majorité des applications actuelles ont besoin d’enregistrer des informations dans une base de données locale ou serveur. Plusieurs outils existent dont Entity Framework, le plus fréquemment proposés par Microsoft, ou ADO.NET, le plus performant mais le plus complexe à exploiter. Depuis plusieurs années, nous avons construit un ensemble d’outils simples afin de nous aider dans la fabrication de la DAL de nos projets, et plus particulièrement dans la recherche de données en les transformant facilement en objets .NET.
+### 
 # 
 #### SessionID: 53305
 # Entrez dans une nouvelle " R " avec SQL Server 2016
@@ -115,9 +107,7 @@ Event Date: 20-09-2016 16:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Cédric Charlier
 ## Title: Entrez dans une nouvelle " R " avec SQL Server 2016
 ## Description:
-### Cette session est destinée à ceux qui sont n’ont jamais touché " R " et qui veulent comprendre les bases de la syntaxe et les possibilités offertes par ce langage. 
-
-Nous verrons aussi comment utiliser ce langage au sein de SQL Server avant d’aborder le thème de l’intégration entre " R " et " SSRS ".
+### 
 # 
 #### SessionID: 53212
 # L’évolution de Master Data Services dans SQL Server 2016
@@ -126,7 +116,7 @@ Event Date: 20-09-2016 17:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Sebastien Notebaert
 ## Title: L’évolution de Master Data Services dans SQL Server 2016
 ## Description:
-### La session débutera par présenter et positionner l’outil Master Data Services dans la plateforme de données de Microsoft. Nous enchaînerons ensuite avec les concepts de base à connaître de Master Data Services avant une prise en main. Ensuite, les scénarios d’utilisation de MDS seront explorés et finalement, de quelle manière les nouveautés et améliorations de MDS 2016 permettent de rendre la proposition de MDS plus attrayante par le biais de démonstration de ces nouveautés.
+### 
 # 
 #### SessionID: 53370
 # Toolkit du DBA
@@ -135,7 +125,7 @@ Event Date: 20-09-2016 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Julien Pierre
 ## Title: Toolkit du DBA
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 53507
 # Installer SQL Server Express sous Docker
@@ -144,7 +134,7 @@ Event Date: 20-09-2016 19:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Christophe Laporte
 ## Title: Installer SQL Server Express sous Docker
 ## Description:
-### En quelques lignes de code, voici la marche à suivre pour préparer la machine hôte, créer un conteneur et installer SQL Server.
+### 
 # 
 #### SessionID: 53677
 # Les stockages dans Azure
@@ -153,7 +143,7 @@ Event Date: 21-09-2016 08:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Franck Mercier
 ## Title: Les stockages dans Azure
 ## Description:
-### Blob Storage, File Storage, Table storage, Queue storage etc… comment se retrouver dans toutes les propositions existantes dans Azure, Quels scenarios d’usage pour quel type  de stockage ? Cette session vous permettra de découvrir tous ces concepts et de les placer clairement dans vos futures architectures.
+### 
 # 
 #### SessionID: 54006
 # Les stockages dans Azure - Part 2
@@ -162,7 +152,7 @@ Event Date: 21-09-2016 09:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Franck Mercier
 ## Title: Les stockages dans Azure - Part 2
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 53512
 # Nouveautés SSIS 2016
@@ -171,7 +161,7 @@ Event Date: 21-09-2016 10:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Christian Cote
 ## Title: Nouveautés SSIS 2016
 ## Description:
-### Cette session portera sur les nouveautés de SQL Server Integration Service (SSIS). Vous apprendrez comment SSIS a évolué au cours des dernières années pour devenir un outil ETL moderne et versatile de premier ordre.
+### 
 # 
 #### SessionID: 53465
 # Meilleures pratiques d'affaires avec Power Query
@@ -180,7 +170,7 @@ Event Date: 21-09-2016 11:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Sophie Marchand
 ## Title: Meilleures pratiques d'affaires avec Power Query
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 53205
 # KMO - étendre SMO avec cette librairie opensource
@@ -189,7 +179,7 @@ Event Date: 21-09-2016 12:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Gregory Boge
 ## Title: KMO - étendre SMO avec cette librairie opensource
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 53637
 # Data Vault et SQL Server 2016 : une combinaison gagnante
@@ -198,7 +188,7 @@ Event Date: 21-09-2016 13:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Louis Perreault
 ## Title: Data Vault et SQL Server 2016 : une combinaison gagnante
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 53685
 # Analysez les écarts prix-volume de vos ventes avec Power BI
@@ -207,7 +197,7 @@ Event Date: 21-09-2016 14:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Tristan Malherbe
 ## Title: Analysez les écarts prix-volume de vos ventes avec Power BI
 ## Description:
-### Vous êtes contrôleur de gestion, business analyst ou analyste des ventes ? Cette session vous montrera comment implémenter une analyse agile et flexible des écarts prix - volume sur vos ventes d'une année à l'autre. Pour cela, nous partirons d'un business case concret et utiliserons des mesures DAX dont nous verrons l'un des principes élémentaires : "Define once, use everywhere ! ".
+### 
 # 
 #### SessionID: 53504
 # Mathematical Models, Data and Model-Data Coupling
@@ -216,7 +206,7 @@ Event Date: 21-09-2016 15:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Emmanuel Frénod
 ## Title: Mathematical Models, Data and Model-Data Coupling
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 53431
 # Le DBA modern
@@ -225,7 +215,7 @@ Event Date: 21-09-2016 16:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Jean Rene Roy
 ## Title: Le DBA modern
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 53430
 # Nouveauté de SQL Server 2016 JSON et Data Mask
@@ -234,7 +224,7 @@ Event Date: 21-09-2016 17:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Jean Rene Roy
 ## Title: Nouveauté de SQL Server 2016 JSON et Data Mask
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 53172
 # Créer un entrepôt de données avec PowerQuery 
@@ -243,7 +233,7 @@ Event Date: 21-09-2016 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): jean-pierre Girardot
 ## Title: Créer un entrepôt de données avec PowerQuery 
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 53514
 # Accélérer vos traitements en parallélisant dynamiquement l'exécution de vos packages SSIS au sein d'un même projet
@@ -252,4 +242,4 @@ Event Date: 21-09-2016 19:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Sarah Bessard
 ## Title: Accélérer vos traitements en parallélisant dynamiquement l'exécution de vos packages SSIS au sein d'un même projet
 ## Description:
-### System.Xml.XmlElement
+### 

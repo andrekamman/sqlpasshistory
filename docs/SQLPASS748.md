@@ -15,7 +15,7 @@ Event Date: 07-06-2017 17:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Michael Johnson
 ## Title: Analyzing Real-Time Data Using Azure Streaming Analytics
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 65411
 # Replacing Brio: Practical Advice for Analysts
@@ -24,7 +24,7 @@ Event Date: 07-06-2017 18:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Julie Hyman
 ## Title: Replacing Brio: Practical Advice for Analysts
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 65413
 # From Hours to Milliseconds: Using GPUs to Accelerate Data Discovery and Visual Analytics 
@@ -33,7 +33,7 @@ Event Date: 07-06-2017 19:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Todd Mostak
 ## Title: From Hours to Milliseconds: Using GPUs to Accelerate Data Discovery and Visual Analytics 
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 65412
 # A Lazy Data Scientist's Toolkit
@@ -42,4 +42,4 @@ Event Date: 07-06-2017 20:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Mark Wilcock
 ## Title: A Lazy Data Scientist's Toolkit
 ## Description:
-### System.Xml.XmlElement
+### 

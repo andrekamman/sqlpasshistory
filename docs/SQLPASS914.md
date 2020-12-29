@@ -35,7 +35,7 @@ Event Date: 12-06-2018 12:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Glenn Berry
 ## Title: Sneak Peek: Migrating to SQL Server 2017
 ## Description:
-### How do you design and implement a safe and successful migration from an older version of SQL Server to SQL Server 2017 with no data loss and virtually no downtime? What if you have a limited hardware budget for the upgrade effort and you are worried about the core-based licensing in SQL Server 2017? How can you choose your hardware wisely in light of the new licensing model? How can you convince your organization that the time is right to upgrade to SQL Server 2017?  This session will cover several different methods for migrating your data to SQL Server 2017 while meeting these objectives and minimizing your hardware and licensing costs.
+### 
 # 
 #### SessionID: 83164
 # Why Performance Tuning Wisdom Needs Expiration Dates
@@ -44,7 +44,7 @@ Event Date: 12-06-2018 13:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Brent Ozar, Erik Darling
 ## Title: Why Performance Tuning Wisdom Needs Expiration Dates
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 83255
 # Are Open Source Databases on Your Radar?
@@ -53,7 +53,7 @@ Event Date: 12-06-2018 14:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Jason HALL
 ## Title: Are Open Source Databases on Your Radar?
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 83250
 # Sneak Peek: Data Storytelling 101
@@ -62,7 +62,7 @@ Event Date: 12-06-2018 15:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Mico Yuk
 ## Title: Sneak Peek: Data Storytelling 101
 ## Description:
-### Check back soon for full session details.
+### 
 # 
 #### SessionID: 83166
 # Git: Concepts & Strategies
@@ -71,9 +71,7 @@ Event Date: 12-06-2018 16:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Lyndsey Padget
 ## Title: Git: Concepts & Strategies
 ## Description:
-### Unless you’ve been living under a rock, you know that Git is the most popular source control management in development shops today.  And for good reason; its power overshadows tools you may have used in the past, such as Subversion or Team Foundation Server.  While most developers and companies know this, making the switch can be painful.  It’s all too common to lose code or introduce bugs because of difficulties merging or resolving conflicts.  Even if you're already using it and comfortable with the basics, situations can arise where you wish you understood it better.
- 
-Whether you're writing code or managing developers who do, this course is for you.  This session will cover the most critical git concepts, basic and advanced, in a completely visualized way.  At the same time, you’ll pick up git terminal commands to help you understand (or even eliminate) a git GUI you already use.  Go beyond the basics to learn how to get yourself out of a git pickle, practical release management strategies, and more.
+### 
 # 
 #### SessionID: 83167
 # Digital Storytelling with Power BI
@@ -82,7 +80,7 @@ Event Date: 12-06-2018 17:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Devin Knight
 ## Title: Digital Storytelling with Power BI
 ## Description:
-### Power BI has many amazing features built in to help guide a user through understanding their data better. Some of the most recently added features like Report Page Tooltips, Drillthrough, Bookmarks, Spotlight and the Selection Pane have made digital storytelling even more exciting. In this session, you will learn how to leverage these features to tell a story with your own data.
+### 
 # 
 #### SessionID: 83168
 # Exploring Sharing Strategies in Power BI
@@ -91,7 +89,7 @@ Event Date: 12-06-2018 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Reza Rad
 ## Title: Exploring Sharing Strategies in Power BI
 ## Description:
-### In this session, Reza will cover different sharing methods (basic sharing, workspaces, apps, publish to web, embedded), and their pros and cons. He will also cover Row Level Security. You will learn how to secure the content of Power BI based on roles. Reza will demonstrate different implementations of row level security such as through SSAS live query, RLS in Power Bi, regardless of data source. Finally, in this session, you will learn best practices and architecture advise for both Sharing and Security.
+### 
 # 
 #### SessionID: 83251
 # Why is that Data Wrong? How Choosing the Wrong Isolation Level Causes Bad Results
@@ -100,7 +98,7 @@ Event Date: 12-06-2018 19:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Kendra Little
 ## Title: Why is that Data Wrong? How Choosing the Wrong Isolation Level Causes Bad Results
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 83252
 # Writing PowerShell with VS Code
@@ -109,7 +107,7 @@ Event Date: 12-06-2018 20:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Rob Sewell
 ## Title: Writing PowerShell with VS Code
 ## Description:
-### We should be using VS Code to write our PowerShell code. In this presentation I will show you how to set up VS Code, which extensions I use, and some of the features that make writing PowerShell easy using VS Code.
+### 
 # 
 #### SessionID: 83253
 # Database DevOps to Ensure Compliance
@@ -118,7 +116,7 @@ Event Date: 12-06-2018 21:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Steve Jones
 ## Title: Database DevOps to Ensure Compliance
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 83254
 # Uncovering Duplicate, Redundant, & Missing Indexes - A Sneak Peek
@@ -127,9 +125,7 @@ Event Date: 12-06-2018 22:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Andy Yun
 ## Title: Uncovering Duplicate, Redundant, & Missing Indexes - A Sneak Peek
 ## Description:
-### Do you know if your database's indexes are really being used to their fullest potential? And do you know if SQL Server needs other indexes to improve performance? 
-
-Attend this session and learn how SQL Server tracks actual index usage, and how you can make use of that information to improve the state of indexes in your database. We will use this data to identify wasteful, unused, & redundant indexes, and explore performance penalties you pay for not addressing these inefficient indexes. Finally, we will dive into the Missing Index DMV and explore the art of evaluating its recommendations to make proper indexing decisions.
+### 
 # 
 #### SessionID: 83165
 # Azure Data Lake: What, Why, and How
@@ -138,7 +134,7 @@ Event Date: 12-06-2018 23:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Melissa Coates
 ## Title: Azure Data Lake: What, Why, and How
 ## Description:
-### We will explore the capabilities of Azure Data Lake (ADL), its use cases, as well as when to implement ADL as part of your data architecture. Options for integration of the data lake with SQL Server, Azure SQL DW, Azure SQL DB, and Azure Blob Storage will be discussed, as well as the roles of U-SQL and PolyBase in a multi-platform system. You will leave this session with an understanding of the benefits, challenges, and suggestions for getting started with Azure Data Lake technologies.
+### 
 # 
 #### SessionID: 83256
 # The SQL Server Transaction Log for Developers - A Sneak Peek
@@ -147,7 +143,7 @@ Event Date: 13-06-2018 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Frank Gill
 ## Title: The SQL Server Transaction Log for Developers - A Sneak Peek
 ## Description:
-### SQL Server tracks all changes to a database's data and schema in the transaction log. This makes it the most important file in any database. Understanding transaction log architecture and behavior will help you develop code that will maximize performance and minimize resource consumption. Join me to learn about transaction log architecture, batching transactions, rollback activity, and the effect these things can have on performance.
+### 
 # 
 #### SessionID: 83257
 # Preview: Azure Data Factory Version 2 - Early Adopters
@@ -156,7 +152,7 @@ Event Date: 13-06-2018 01:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Joseph Barth
 ## Title: Preview: Azure Data Factory Version 2 - Early Adopters
 ## Description:
-### Azure Data Factory version 2 is a game changer! First it can run SSIS in the cloud with a push of the button. Second, new user interface allows to build your pipelines in seconds and version control your development. Third, monitoring just got easier, stop, cancel, restart your pipelines all in one area. Lastly, control flow gives you the ability to easily chain your dependencies, including using iteration and conditionals. Walking through what is new and what is available to do with ADFv2.Understand the architecture of the Azure Data Factory linked services connecting from on-premise sources using self-hosted vs connecting to a VNET. Learn how to start up and Azure SSIS instance, understanding of the VM scale sets deployed and the cost associated. Walk through examples in new Control, use of Iterations and Conditionals. Early adoption gives an outside look on architecture around connecting your data to the cloud and how important linked services, data sets and pipelines are.
+### 
 # 
 #### SessionID: 83262
 # An Introduction to Azure Databricks
@@ -165,7 +161,7 @@ Event Date: 13-06-2018 02:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Ginger Grant
 ## Title: An Introduction to Azure Databricks
 ## Description:
-### Databricks is a new tool for processing massive amounts of data, which can be used to deploy data applications and manage the workflow process. It is an expansion of what Apache Spark can do, as it was created by the same people.  It can be extended with R, Python, Scala and several other languages, including Spark SQL.  It provides streaming data capabilities along with a workflow and collaborative space for data scientist and others. This session will show how a Databricks pipelines can be used to process data and why you might want to consider developing solutions with it.
+### 
 # 
 #### SessionID: 83263
 # Least Privilege, Greatest Privacy
@@ -174,7 +170,7 @@ Event Date: 13-06-2018 03:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Ed Leighton-Dick
 ## Title: Least Privilege, Greatest Privacy
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 83264
 # A DBA's Guide to the Proper Handling of Corruption: Sneak Peek
@@ -183,11 +179,7 @@ Event Date: 13-06-2018 04:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Brandon Leach
 ## Title: A DBA's Guide to the Proper Handling of Corruption: Sneak Peek
 ## Description:
-### Corruption can strike at any time. As DBAs how we alert, investigate, and respond can have a profound impact on our company. In this sneak peak of my PASS Summit session we will learn how to detect and plan for corruption.
-
-We will focus on ways to detect corruption early. This will include understanding tools available to us like DBCC CheckDB as well as the importance of testing your backups. 
-
-As part of this we’ll look at some sample scripts to automate corruption checks and common alerts we should have set up on our instances, as well as discuss a sample backup and DBCC Checkdb architecture to help ensure we can recover.
+### 
 # 
 #### SessionID: 83170
 # A Sneak Peek: Advanced R
@@ -196,7 +188,7 @@ Event Date: 13-06-2018 05:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Dejan Sarka
 ## Title: A Sneak Peek: Advanced R
 ## Description:
-### A quick step through a data science project in R to get you the idea what the Advanced R Pre-Conference session at PASS Summit 2018 is about. You will briefly see all stages of a project, from data overview and preparation through visualizations and implementation of algorithms to model evaluation.
+### 
 # 
 #### SessionID: 83265
 # Data Science in Cloud 
@@ -205,7 +197,7 @@ Event Date: 13-06-2018 06:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Leila Etaati
 ## Title: Data Science in Cloud 
 ## Description:
-### In this session, you will see the different possibility of doing machine learning using the Azure stack. First, Microsoft data science lifecycle will be presented and discussed. Then an overview of some of the available tools will be shown such as Azure Machine Learning Studio, Azure ML Workbench, Performing Machine Learning in Azure Data Lake, and using Azure Data Bricks for Machine Learning. This session provides a brief explanation of these new tools and how they work.
+### 
 # 
 #### SessionID: 83169
 # SQL Server Performance Tuning Made Easy
@@ -214,7 +206,7 @@ Event Date: 13-06-2018 07:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Pinal Dave
 ## Title: SQL Server Performance Tuning Made Easy
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 83266
 # Modern Data Warehousing - The Lambda Architecture in Azure
@@ -223,7 +215,7 @@ Event Date: 13-06-2018 08:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Simon Whiteley
 ## Title: Modern Data Warehousing - The Lambda Architecture in Azure
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 83267
 # Biml for Beginners: Script and Automate SSIS Development
@@ -232,13 +224,7 @@ Event Date: 13-06-2018 09:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Cathrine Wilhelmsen
 ## Title: Biml for Beginners: Script and Automate SSIS Development
 ## Description:
-### Are you tired of creating and updating the same SSIS packages over and over and over again? Is your wrist hurting from all that clicking, dragging, dropping, connecting and aligning? Do you want to take the next step and start automating your SSIS development?
-
-Say goodbye to repetitive work and hello to Biml, the markup language for Business Intelligence projects.
-
-In this session, we will first look at the basics of Biml and how to automatically generate SSIS packages from database metadata. Then we will explore techniques for reusing code and implementing changes across projects with just a few clicks. Finally, we will create an example project that you can download and start with to generate all the SQL scripts and SSIS packages needed to build a staging environment in just a few minutes.
-
-Stop wasting your valuable time on doing the same things over and over and over again, and see how you can complete in a day what once took more than a week!
+### 
 # 
 #### SessionID: 83268
 # Improve App Performance Using Async Messaging with Service Broker
@@ -247,7 +233,7 @@ Event Date: 13-06-2018 10:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Allen White
 ## Title: Improve App Performance Using Async Messaging with Service Broker
 ## Description:
-### How your business applications interact with the corporate database directly can have a dramatic impact on how successful you are, and one of the biggest issues is performance with large databases.  By designing the application to use asynchronous messaging for non-critical updates you can focus performance concerns to where the timeliness is critical.  SQL Server Service Broker handles the asynchronous requests quickly and efficiently, and minimizes the conflicts with your critical updates.  This session will walk you through the steps to get Service Broker up and running and providing a consistent delivery of your business data.
+### 
 # 
 #### SessionID: 83269
 # Power BI Tips to Make Stuff Work
@@ -256,4 +242,4 @@ Event Date: 13-06-2018 11:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Manohar Punna
 ## Title: Power BI Tips to Make Stuff Work
 ## Description:
-### System.Xml.XmlElement
+### 

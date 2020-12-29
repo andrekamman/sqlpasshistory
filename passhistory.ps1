@@ -98,11 +98,18 @@ foreach ($sessionfile in Get-ChildItem $sessionfiles ) {
             $name = $xml.SessionName.'#text'
         }
 
+        if (($xml.SessionDescription.GetType().Name -eq "string")){
+            $description = $xml.SessionDescription
+        }
+        else {
+            $description = $xml.SessionDescription.'#text'
+        }
+
         $session = [PSCustomObject]@{
             ID = [int]$xml.SessionID.'#text'
             EventID = [int]$xml.EventID.'#text'
             Name = $name
-            Description = $xml.SessionDescription
+            Description = $SessionDescription
             Date = $DateTimeStart
             Category = $xml.SessionCategory
             Track = $track

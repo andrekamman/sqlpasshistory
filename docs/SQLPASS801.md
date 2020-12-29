@@ -16,7 +16,7 @@ Event Date: 27-09-2017 18:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Julie Hyman
 ## Title: Self-Service Doesn't Mean You Have to Go It Alone: How to turn analytic silos into analytic teams
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 69130
 # Text Analytics Case Study:  Bank’s Corporate Responsibility Reports
@@ -25,7 +25,7 @@ Event Date: 27-09-2017 19:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Mark Wilcock
 ## Title: Text Analytics Case Study:  Bank’s Corporate Responsibility Reports
 ## Description:
-### The analysis of text documents is rapidly growing in importance and not just of social media  but also for legal, academic and financial documents.   We'll use a case study based on the analysis of a bank's corporate responsibility reports to learn  some techniques; frequency analysis, finding words and phrases specific to one or a few documents in a collection, and key phrase detection.  We'll use a variety of tools; R, text analytics web services and Power BI.
+### 
 # 
 #### SessionID: 69131
 # Exploring Public Data: An Alternative Data Source
@@ -34,7 +34,7 @@ Event Date: 27-09-2017 20:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Craig Danton
 ## Title: Exploring Public Data: An Alternative Data Source
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 69132
 # Visualizing, Analyzing & Acting on FinTech Data with GPUs
@@ -43,7 +43,7 @@ Event Date: 27-09-2017 21:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Justin Sears
 ## Title: Visualizing, Analyzing & Acting on FinTech Data with GPUs
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 69128
 # Leveraging Multi-Source & Multi-Type Data to Estimate Organization-Specific Exposure to Executive Risk
@@ -52,4 +52,4 @@ Event Date: 27-09-2017 22:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Dr. Andrew Banasiewicz
 ## Title: Leveraging Multi-Source & Multi-Type Data to Estimate Organization-Specific Exposure to Executive Risk
 ## Description:
-### System.Xml.XmlElement
+### 

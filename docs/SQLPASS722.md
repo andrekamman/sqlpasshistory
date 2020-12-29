@@ -16,7 +16,7 @@ Event Date: 29-03-2017 17:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Prathy Kamasani
 ## Title: Compelling Visuals in Power BI
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 62537
 # Power BI Twitter Brand Awareness Dashboard
@@ -25,7 +25,7 @@ Event Date: 29-03-2017 18:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): David Moss
 ## Title: Power BI Twitter Brand Awareness Dashboard
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 62577
 # Hands-On Data Analysis With Power BI Desktop
@@ -34,7 +34,7 @@ Event Date: 29-03-2017 19:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Koen Verbeeck
 ## Title: Hands-On Data Analysis With Power BI Desktop
 ## Description:
-### There are lots of flashy Power BI demos everywhere. But most of the time, you don't see the internal mechanics. In this demo-heavy session, we're going to build a Power BI demo from scratch. We'll combine data from various sources, build a simple data model and start creating data visualizations. We'll also take a quick look at the analytical capabilities of Power BI Desktop. After this session, you'll have a good overview of the features Power BI Desktop has to offer and you can start your own data analytics journey.
+### 
 # 
 #### SessionID: 62534
 # Storytelling with Infographics
@@ -43,7 +43,7 @@ Event Date: 29-03-2017 20:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Jen Underwood
 ## Title: Storytelling with Infographics
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 62535
 # Three Data Preparation Essentials for Predictive Modeling
@@ -52,4 +52,4 @@ Event Date: 29-03-2017 21:00 - Category: Breakout Session (60 minutes) - Track: 
 ## Speaker(s): Dean Abbott
 ## Title: Three Data Preparation Essentials for Predictive Modeling
 ## Description:
-### System.Xml.XmlElement
+### 

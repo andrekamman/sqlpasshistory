@@ -35,7 +35,7 @@ Event Date: 13-11-2013 13:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Luan Moreno Medeiros Maciel
 ## Title: In-Memory OLTP a.ka Hekaton
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5547
 # SQL Server em Máquinas Virtuais do Windows Azure
@@ -44,7 +44,7 @@ Event Date: 13-11-2013 14:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Vitor Tomaz
 ## Title: SQL Server em Máquinas Virtuais do Windows Azure
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5548
 # Integrando o PowerView e PowerPivot no SQL Server 2012 e Sharepoint 2013
@@ -53,7 +53,7 @@ Event Date: 13-11-2013 15:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Demetrio Silva
 ## Title: Integrando o PowerView e PowerPivot no SQL Server 2012 e Sharepoint 2013
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5549
 # Um Dia de Raiva
@@ -62,7 +62,7 @@ Event Date: 13-11-2013 16:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Pedro Correia
 ## Title: Um Dia de Raiva
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5550
 # Introdução aos Extended Events
@@ -71,7 +71,7 @@ Event Date: 13-11-2013 17:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Vitor Pombeiro
 ## Title: Introdução aos Extended Events
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5551
 # PowerBI – PowerPivot, PowerView, PowerQuery e PowerMap. O poder nas mãos do utilizador
@@ -80,7 +80,7 @@ Event Date: 13-11-2013 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Bruno Basto
 ## Title: PowerBI – PowerPivot, PowerView, PowerQuery e PowerMap. O poder nas mãos do utilizador
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5552
 # Por onde começar no BigData?!
@@ -89,7 +89,7 @@ Event Date: 13-11-2013 19:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Diego Nogare
 ## Title: Por onde começar no BigData?!
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5553
 # Data Auditing
@@ -98,7 +98,7 @@ Event Date: 13-11-2013 20:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Quilson Antunes
 ## Title: Data Auditing
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5554
 # Contained Database - Banco de Dados Independentes
@@ -107,7 +107,7 @@ Event Date: 13-11-2013 21:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Marcus Vinícius Bittencourt
 ## Title: Contained Database - Banco de Dados Independentes
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5614
 # Data Compression
@@ -116,7 +116,7 @@ Event Date: 13-11-2013 22:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Quilson Antunes
 ## Title: Data Compression
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5556
 # SSAS Internals
@@ -125,7 +125,7 @@ Event Date: 13-11-2013 23:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Thiago Zavaschi
 ## Title: SSAS Internals
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5557
 # CLR Integration, O Poder do SQL Server combinado com o .NET
@@ -134,7 +134,7 @@ Event Date: 14-11-2013 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Etienne Lopes
 ## Title: CLR Integration, O Poder do SQL Server combinado com o .NET
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5558
 # Qualidade é tudo !Garanta integridade da informação e consistência de dados através do MDS e DQS no SQL Server 2012.
@@ -143,7 +143,7 @@ Event Date: 14-11-2013 13:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Erika Madeira
 ## Title: Qualidade é tudo !Garanta integridade da informação e consistência de dados através do MDS e DQS no SQL Server 2012.
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5559
 # Server Core. What it is ? Why ? How ?
@@ -152,7 +152,7 @@ Event Date: 14-11-2013 14:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Pedro Simões
 ## Title: Server Core. What it is ? Why ? How ?
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5560
 # CAST TLOG as TSQL 4.0
@@ -161,7 +161,7 @@ Event Date: 14-11-2013 15:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Pedro Correia
 ## Title: CAST TLOG as TSQL 4.0
 ## Description:
-### O objetivo desta sessão é levar o público numa busca do T-SQL original (ou equivalente), que esteve na origem das diferentes operações registradas no transaction log. Numa sessão que aborda várias questões de funcionamento Interno iremos enveredar numa viagem que começa no final do log e, com sorte, só termina com o nascimento da base de dados.
+### 
 # 
 #### SessionID: 5561
 # Clustered Columnstore Indexes
@@ -170,7 +170,7 @@ Event Date: 14-11-2013 16:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Niko Neugebauer
 ## Title: Clustered Columnstore Indexes
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5562
 # Técnicas para Tuning para Consultas no Windows Azure SQL Database
@@ -179,7 +179,7 @@ Event Date: 14-11-2013 17:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Marcondes Alexandre
 ## Title: Técnicas para Tuning para Consultas no Windows Azure SQL Database
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5563
 # Database Administration 
@@ -188,7 +188,7 @@ Event Date: 14-11-2013 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Murilo Miranda
 ## Title: Database Administration 
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5564
 # Transaction Log - melhores práticas 
@@ -197,7 +197,7 @@ Event Date: 14-11-2013 19:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Luiz Mercante
 ## Title: Transaction Log - melhores práticas 
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5565
 # "Data Driven" Business Intelligence
@@ -206,7 +206,7 @@ Event Date: 14-11-2013 20:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Rui Quintino
 ## Title: "Data Driven" Business Intelligence
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5566
 # Virtualizar o SQL Server de alto desempenho é possível?
@@ -215,7 +215,7 @@ Event Date: 14-11-2013 21:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Leandro Ribeiro
 ## Title: Virtualizar o SQL Server de alto desempenho é possível?
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5567
 # SQL Server AlwaysOn – Dicas e recomendações
@@ -224,7 +224,7 @@ Event Date: 14-11-2013 22:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Luis Canastreiro
 ## Title: SQL Server AlwaysOn – Dicas e recomendações
 ## Description:
-### O objetivo desta sessão é o de apresentar um conjunto de notas e recomendações que são importantes ter em consideração antes, durante e após a implementação de uma arquitetura de HA/DR tirando partido de AlwaysOn – Availability Groups, presente tanto no SQL Server 2012 como no SQL Server 2014.
+### 
 # 
 #### SessionID: 5568
 # Windows Server Failover Cluster Fundamentals
@@ -233,7 +233,7 @@ Event Date: 14-11-2013 23:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Eduardo Castro
 ## Title: Windows Server Failover Cluster Fundamentals
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5607
 # Clustered Columnstore Indexes (Advance)
@@ -242,4 +242,4 @@ Event Date: 15-11-2013 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Niko Neugebauer
 ## Title: Clustered Columnstore Indexes (Advance)
 ## Description:
-### System.Xml.XmlElement
+### 

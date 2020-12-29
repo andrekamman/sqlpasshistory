@@ -35,7 +35,7 @@ Event Date: 25-06-2014 12:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Ross LoForte, Rick Heiges
 ## Title: Field Testing Buffer Pool Extension and In-Memory OLTP Features in SS2014
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7150
 # SQL Server 2014: In-Memory OLTP Overview
@@ -44,7 +44,7 @@ Event Date: 25-06-2014 13:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Jamie Reding
 ## Title: SQL Server 2014: In-Memory OLTP Overview
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7151
 # SQL Server 2014: In-Memory OLTP for Database  Administrators
@@ -53,7 +53,7 @@ Event Date: 25-06-2014 14:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Sunil Agarwal
 ## Title: SQL Server 2014: In-Memory OLTP for Database  Administrators
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7152
 # SQL Server 2014: In-Memory OLTP End-to-End: Preparing for Migration
@@ -62,7 +62,7 @@ Event Date: 25-06-2014 15:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): George Li
 ## Title: SQL Server 2014: In-Memory OLTP End-to-End: Preparing for Migration
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7153
 # SQL Server 2014: In-Memory OLTP for Database Developers
@@ -71,7 +71,7 @@ Event Date: 25-06-2014 16:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Jos de Bruijn
 ## Title: SQL Server 2014: In-Memory OLTP for Database Developers
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7154
 # AMA: Open Questions and Answers on SQL Server 2014 In-Memory OLTP
@@ -80,7 +80,7 @@ Event Date: 25-06-2014 17:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Sunil Agarwal, Jos de Bruijn
 ## Title: AMA: Open Questions and Answers on SQL Server 2014 In-Memory OLTP
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7155
 # The Modern Data Warehouse
@@ -89,7 +89,7 @@ Event Date: 25-06-2014 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Dan Kogan
 ## Title: The Modern Data Warehouse
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7156
 # SQL Server 2014: Private and Hybrid Cloud Features
@@ -98,7 +98,7 @@ Event Date: 25-06-2014 19:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Darmadi Komo
 ## Title: SQL Server 2014: Private and Hybrid Cloud Features
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7157
 # AlwaysOn in Microsoft SQL Server 2014
@@ -107,7 +107,7 @@ Event Date: 25-06-2014 20:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Luis Vargas
 ## Title: AlwaysOn in Microsoft SQL Server 2014
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7158
 # Columnstore Technical Deep Dive
@@ -116,7 +116,7 @@ Event Date: 25-06-2014 21:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Sunil Agarwal
 ## Title: Columnstore Technical Deep Dive
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7159
 # Columnstore Indexes in SQL Server 2014: Flipping the DW Faster Bit
@@ -125,7 +125,7 @@ Event Date: 25-06-2014 22:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): J May
 ## Title: Columnstore Indexes in SQL Server 2014: Flipping the DW Faster Bit
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7160
 # Migration and Deployment for SQL Server in Azure Virtual Machines
@@ -134,7 +134,7 @@ Event Date: 25-06-2014 23:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Selcin Turkarslan
 ## Title: Migration and Deployment for SQL Server in Azure Virtual Machines
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7161
 # AMA: Open Questions and Answers on SQL Server 2014 HA-DR in the Cloud
@@ -143,7 +143,7 @@ Event Date: 26-06-2014 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Darmadi Komo, Evgeny Ternovsky, Bill Kan
 ## Title: AMA: Open Questions and Answers on SQL Server 2014 HA-DR in the Cloud
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7162
 # Designing Modern Apps Using New Capabilities in Azure SQL Database
@@ -152,7 +152,7 @@ Event Date: 26-06-2014 01:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Bill Gibson
 ## Title: Designing Modern Apps Using New Capabilities in Azure SQL Database
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7163
 # Introduction to Microsoft Analytics Platform System (APS)
@@ -161,7 +161,7 @@ Event Date: 26-06-2014 02:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Matt Usher
 ## Title: Introduction to Microsoft Analytics Platform System (APS)
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7164
 # SQL Server 2014 Upgrade: A Case Study Featuring In-Memory OLTP and Hybrid-Cloud Scenarios
@@ -170,7 +170,7 @@ Event Date: 26-06-2014 03:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Evgeny Ternovsky, Bill Kan
 ## Title: SQL Server 2014 Upgrade: A Case Study Featuring In-Memory OLTP and Hybrid-Cloud Scenarios
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7165
 # Patterns and Practices for Scaling Microsoft Azure SQL Database
@@ -179,7 +179,7 @@ Event Date: 26-06-2014 04:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Scott Klein
 ## Title: Patterns and Practices for Scaling Microsoft Azure SQL Database
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7166
 # AMA: Open Questions and Answers on Azure SQL Database
@@ -188,7 +188,7 @@ Event Date: 26-06-2014 05:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Scott Klein, Bill Gibson, Joanne Marone
 ## Title: AMA: Open Questions and Answers on Azure SQL Database
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7167
 # SQL Server 2014: In-Memory OLTP Performance Troubleshooting
@@ -197,7 +197,7 @@ Event Date: 26-06-2014 06:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Jos de Bruijn
 ## Title: SQL Server 2014: In-Memory OLTP Performance Troubleshooting
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7168
 # SQL Server 2014 In-Memory OLTP: Memory/Storage Monitoring and Troubleshooting
@@ -206,7 +206,7 @@ Event Date: 26-06-2014 07:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Jamie Reding
 ## Title: SQL Server 2014 In-Memory OLTP: Memory/Storage Monitoring and Troubleshooting
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7172
 # SQL Server 2014: Changes to Query Plans
@@ -215,7 +215,7 @@ Event Date: 26-06-2014 08:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Pedro Lopes
 ## Title: SQL Server 2014: Changes to Query Plans
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7196
 # AMA: Open Questions on SQL Server 2014, Microsoft Azure, and Big Data
@@ -224,7 +224,7 @@ Event Date: 26-06-2014 09:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Alexei Khalyako
 ## Title: AMA: Open Questions on SQL Server 2014, Microsoft Azure, and Big Data
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7197
 # AMA: Open Questions and Answers on SQL Server in Azure VMs
@@ -233,7 +233,7 @@ Event Date: 26-06-2014 10:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Silvano Coriani
 ## Title: AMA: Open Questions and Answers on SQL Server in Azure VMs
 ## Description:
-### Got questions about SQL Server 2014 in Azure VMs? Submit your questions to 24hrs@sqlpass.org by June 13th and we’ll have SQL Server Product Managers answer them live!
+### 
 # 
 #### SessionID: 7171
 # The Role of Polybase in the Modern Data Warehouse
@@ -242,4 +242,4 @@ Event Date: 26-06-2014 11:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Brian Mitchell
 ## Title: The Role of Polybase in the Modern Data Warehouse
 ## Description:
-### System.Xml.XmlElement
+### 

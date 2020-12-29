@@ -35,7 +35,7 @@ Event Date: 14-11-2016 20:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Vitor Pombeiro
 ## Title: O que é Azure SQL Data Warehouse? Será que é para mim?
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 54403
 # Pensando fora da caixa! - SMB 3.0
@@ -44,7 +44,7 @@ Event Date: 14-11-2016 21:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Marcelo Fernandes
 ## Title: Pensando fora da caixa! - SMB 3.0
 ## Description:
-### Nesta sessão será apresentado o protocol SMB 3.0 e como podemos tirar vantagens e aumentar a disponibilidade e performance do ambiente investindo menos em em infraestrutura.
+### 
 # 
 #### SessionID: 54480
 # Implementando e administrando Streched Databases
@@ -53,7 +53,7 @@ Event Date: 14-11-2016 22:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Armando Lacerda
 ## Title: Implementando e administrando Streched Databases
 ## Description:
-### Nesta sessão totalmente baseada em demos eu irei demonstrar as capacidades desta nova feature do SQL Server 2016. Vamos quando utilizar, como implementar e como administrar. Também iremos analisar o impacto nas aplicações quando essa feature é utilizada.
+### 
 # 
 #### SessionID: 54696
 # Columnstore Indexes no SQL Server 2016 
@@ -62,7 +62,7 @@ Event Date: 14-11-2016 23:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Niko Neugebauer
 ## Title: Columnstore Indexes no SQL Server 2016 
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 54715
 # Boas Práticas de Administração em Large Databases multi-filegroup
@@ -71,7 +71,7 @@ Event Date: 15-11-2016 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Agnaldo Carmo
 ## Title: Boas Práticas de Administração em Large Databases multi-filegroup
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 54556
 # Introduction to Power BI
@@ -80,7 +80,7 @@ Event Date: 15-11-2016 20:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Nuno Árias Silva
 ## Title: Introduction to Power BI
 ## Description:
-### An Introduction of what is PowerBI with Architecture, what is possible to do and possibilities to Archive a View of your Business and your company.
+### 
 # 
 #### SessionID: 54368
 # SSRS 2016 - O Futuro da Análise de Dados
@@ -89,7 +89,7 @@ Event Date: 15-11-2016 21:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Arthur Luz
 ## Title: SSRS 2016 - O Futuro da Análise de Dados
 ## Description:
-### Esta sessão irá abordar sobre as novidades do SQL Server 2016 para o mundo de Business Intelligence. Faremos um overview da instalação e configuração e também da criação de Dashboards e KPIs na nova atualização do Report Services 2016 que foi integrado ao Datazen e ao Power BI.
+### 
 # 
 #### SessionID: 54676
 # Análise de dados com Linguagem R + Visual Studio 2015 + Power BI
@@ -98,7 +98,7 @@ Event Date: 15-11-2016 22:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Rodrigo Dornel
 ## Title: Análise de dados com Linguagem R + Visual Studio 2015 + Power BI
 ## Description:
-### Aprenda como iniciar um projeto de analise de dados combinando linguagens tradicionais de análise de dados como a Linguagem R usando ferramentas como Visual Studio e Power BI.
+### 
 # 
 #### SessionID: 54371
 # Descoberta de Dados com Azure Data Catalog
@@ -107,7 +107,7 @@ Event Date: 15-11-2016 23:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Marcondes Alexandre
 ## Title: Descoberta de Dados com Azure Data Catalog
 ## Description:
-### Nesta sessão, iremos conhecer o que é Azure Data Catalog, bem como os cenários mais comuns de uso e em que se apresenta como uma boa alternativa para o fluxo de descoberta, explorar e consumo de dados. Discutiremos aspectos gerais de uso, fontes de dados com suporte, além do que a sua terminologia e integração com o Power BI Desktop.
+### 
 # 
 #### SessionID: 54350
 # Realizando Tunning com o Query Store
@@ -116,7 +116,7 @@ Event Date: 16-11-2016 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Dennes Torres
 ## Title: Realizando Tunning com o Query Store
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 54595
 # Se uma máquina consegue aprender, porque não aprendes Azure ML?
@@ -125,9 +125,7 @@ Event Date: 16-11-2016 20:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): André Melancia
 ## Title: Se uma máquina consegue aprender, porque não aprendes Azure ML?
 ## Description:
-### És um DBA ou Developer e gostavas de dar os primeiros passos em Azure ML, da maneira mais FÁCIL?
-Azure ML não é só para "data scientists"… Qualquer pessoa pode usá-lo! E depois desta sessão, vais saber usá-lo também…
-Aviso legal: Infelizmente, o Azure ML não consegue ainda prever o que se passa na cabeça da tua namorada. Nada alguma vez conseguirá.
+### 
 # 
 #### SessionID: 54511
 # Gems to help you troubleshoot query performance
@@ -136,7 +134,7 @@ Event Date: 16-11-2016 21:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Pedro Lopes
 ## Title: Gems to help you troubleshoot query performance
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 54656
 # Explorando o Azure SQL Database
@@ -145,12 +143,7 @@ Event Date: 16-11-2016 22:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Murilo Miranda
 ## Title: Explorando o Azure SQL Database
 ## Description:
-### Azure SQL Database is not a very brand new technology, even so this still very
-recent. For multiple reasons, most of the data professionals are still
-discovering this new world. If you are one of those, this session is for you!
-Basic concepts will be explained as well as the structure of the SQL Database.
-And yes... there are demos showing how to perform basic tasks in order to ramp
-up with this technology.
+### 
 # 
 #### SessionID: 54416
 # Query Store in SQL Server 2016
@@ -159,7 +152,7 @@ Event Date: 16-11-2016 23:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Etienne Lopes
 ## Title: Query Store in SQL Server 2016
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 54363
 # SQL Server IaaS em Azure VMs
@@ -168,11 +161,7 @@ Event Date: 17-11-2016 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Luan Moreno Medeiros Maciel
 ## Title: SQL Server IaaS em Azure VMs
 ## Description:
-### Desde 2012, o termo "Cloud Computing" vem sido espalhado e transmitido através da internet por um grande número de pessoas. Esta nova abordagem chamada cloud-ready permite um acesso on-demand para computadores e recursos para empresas que não querem gastar seu tempo e dinheiro através de aquisição de recursos, e é onde Microsoft entra.
-
-Microsoft está investido fortemente em "cloud computing" nos últimos anos sendo assim uma das mais importantes entregas e investimentos da empresa. Novos paradigmas e tecnologias estão surgindo, e o grande impulso é manter o movimento nessa direção, minimizar o esforço do cliente, oferecendo uma solução com um mínimo de paralisação, alta SLA e um custo baixo.
-
-Junte-se a mim nesta sessão para descobrir as melhores práticas e regras que você deve aplicar e seguir na plataforma Microsoft Azure - IaaS para ser um empregado hábil e orientar sua empresa a melhorar seu negócio.
+### 
 # 
 #### SessionID: 54652
 # Polybase in SQL Server 2016: Let's query Big Data with T-SQL !
@@ -181,8 +170,7 @@ Event Date: 17-11-2016 20:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Andre Batista
 ## Title: Polybase in SQL Server 2016: Let's query Big Data with T-SQL !
 ## Description:
-### Polybase is one of the new features that got released on the new SQL Server 2016 version. It's a pretty useful technology if you want to access and join both relational and non-relational data,  all from within SQL Server. We can run this queries against external data like Hadoop or Azure blob storage with the advantage of the query computation be optimized and managed on our Hadoop cluster.
-Attend my session if you want to learn how to take advantage of this technology and where we can use it in real life scenarios. I will also cover installation, configuration and troubleshooting.
+### 
 # 
 #### SessionID: 54348
 # Database Console Commands
@@ -191,7 +179,7 @@ Event Date: 17-11-2016 21:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Rodrigo Crespi
 ## Title: Database Console Commands
 ## Description:
-### Veja conhecer quem realmente é o tal DBCC!  Falaremos (Sem Censura!) sobre o impacto destes comandos e sua utilidade.
+### 
 # 
 #### SessionID: 54429
 # 10 dicas de performance para o seus scripts PowerShell
@@ -200,12 +188,7 @@ Event Date: 17-11-2016 22:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Cláudio Silva
 ## Title: 10 dicas de performance para o seus scripts PowerShell
 ## Description:
-### O seu script PowerShell está a demorar mais do que seria expectável?
-Como está a filtrar os dados?
-O que usa para efectuar ciclos?
-Estar a fazer coisas que não deveriam ser feitas pelo PowerShell?
-
-Estes são só alguns pontos dos que iremos abordar nesta sessão sobre performance em PowerShell
+### 
 # 
 #### SessionID: 54729
 # Window function como podemos tirar proveito?
@@ -214,7 +197,7 @@ Event Date: 17-11-2016 23:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Felippe Oliveira
 ## Title: Window function como podemos tirar proveito?
 ## Description:
-### O assunto abordado, será de grande ajuda para os profissionais que trabalham com desenvolvimento de Transaction SQL server, os exemplos serão demonstrados em formatos simples com intuito de passar a sua real funcionalidade.
+### 
 # 
 #### SessionID: 54685
 # SQL Server on Azure IaaS - ARM Architecture Overview
@@ -223,7 +206,7 @@ Event Date: 18-11-2016 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Paulo Daniel Nobre
 ## Title: SQL Server on Azure IaaS - ARM Architecture Overview
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 55114
 # Database Source Control: Migrations vs State
@@ -232,9 +215,7 @@ Event Date: 18-11-2016 20:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Eduardo Piairo
 ## Title: Database Source Control: Migrations vs State
 ## Description:
-### This session is dedicated to the exploration and discussion of the advantages and disadvantages of the two approaches used in version control at database level: the migrations-based approach and the state-based approach.
-The impact of the approach decision (migrations or state), as well as strategies and tools, will be addressed through the following steps: source control, continuous integration and continuous delivery.
-At the end I will challenge you to reflect if the discussion migrations versus state should be replaced by migrations plus state.
+### 
 # 
 #### SessionID: 54659
 # Common Data Model (CDM), uma nova base dados?
@@ -243,7 +224,7 @@ Event Date: 18-11-2016 21:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Pedro Azevedo
 ## Title: Common Data Model (CDM), uma nova base dados?
 ## Description:
-### A Microsoft está a lançar uma nova base dados empresarial, onde juntou as principais entidades utilizadas nas suas ferramentas empresariais, denominando Common Data Model. Nesta sessão vamos poder observar como se relaciona com as Power Apps, Flow, Power BI.
+### 
 # 
 #### SessionID: 54674
 # Azure SQL Database - Scaling In e Scaling Out através do elastic pool
@@ -252,7 +233,7 @@ Event Date: 18-11-2016 22:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Vitor Fava
 ## Title: Azure SQL Database - Scaling In e Scaling Out através do elastic pool
 ## Description:
-### Nesta sessão discutiremos como configurar o elastic pool do Azure SQL Database para gerenciar a utilização de recursos e garantir alta performance e estabilidade de seus bancos de dados hospedados no Azure.
+### 
 # 
 #### SessionID: 54736
 # Backup and Restore 101
@@ -261,4 +242,4 @@ Event Date: 18-11-2016 23:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Marcelo Adade
 ## Title: Backup and Restore 101
 ## Description:
-### Realizar e planejar o Backup de maneira correta é a maior garantia de funcionamento do processo de Recuperação (Restore) de uma base de dados em MS SQL SERVER. Tão importante quanto esses fatores é o correto planejamento de alocação de Filegroups para bases de dados em Missão Crítica de MS SQL SERVER. Aqui veremos os processos de funcionamento dos recursos de Backup e Restore.
+### 

@@ -35,7 +35,7 @@ Event Date: 07-10-2014 15:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Pedro Correia
 ## Title: In-Memory OLTP - Durablidade
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7316
 # Como fazer bonito para o DBA
@@ -44,7 +44,7 @@ Event Date: 07-10-2014 16:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Rodrigo Crespi
 ## Title: Como fazer bonito para o DBA
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7317
 # Explorando o poder das DMV's no SQL 2014
@@ -53,7 +53,7 @@ Event Date: 07-10-2014 17:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Leonardo Pedroso Costa
 ## Title: Explorando o poder das DMV's no SQL 2014
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7301
 # APS v2 AU2 - New features and capabilities
@@ -62,7 +62,7 @@ Event Date: 07-10-2014 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Artur Vieira
 ## Title: APS v2 AU2 - New features and capabilities
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7318
 # Troubleshooting SQL Server com Extended Events
@@ -71,7 +71,7 @@ Event Date: 07-10-2014 19:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Luan Moreno Medeiros Maciel
 ## Title: Troubleshooting SQL Server com Extended Events
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7302
 # Power Q&A - o presente e o futuro de Self-Service BI no Cloud
@@ -80,7 +80,7 @@ Event Date: 07-10-2014 20:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Niko Neugebauer
 ## Title: Power Q&A - o presente e o futuro de Self-Service BI no Cloud
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7303
 # Storage Melhores Praticas
@@ -89,7 +89,7 @@ Event Date: 07-10-2014 21:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Marcus Vinícius Bittencourt
 ## Title: Storage Melhores Praticas
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7304
 # Changes to Query Plans
@@ -98,7 +98,7 @@ Event Date: 07-10-2014 22:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Pedro Lopes
 ## Title: Changes to Query Plans
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7305
 # Data Mining na Cloud com o Windows Azure Machine Learning
@@ -107,7 +107,7 @@ Event Date: 07-10-2014 23:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Rui Quintino
 ## Title: Data Mining na Cloud com o Windows Azure Machine Learning
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7306
 # Analise de teoria dos grafos com NodeXL
@@ -116,7 +116,7 @@ Event Date: 08-10-2014 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Niko Neugebauer
 ## Title: Analise de teoria dos grafos com NodeXL
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7319
 # Improved Online Operations in SQL Server 2014
@@ -125,7 +125,7 @@ Event Date: 08-10-2014 01:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Andre Batista
 ## Title: Improved Online Operations in SQL Server 2014
 ## Description:
-### Nesta sessão irão ser abordadas as melhorias introduzidas no SQL Server 2014, sobre operações que passaram a ser possível serem efetuadas ONLINE, como o "REBUILD" por partição, em objetos particionados e gestão da prioridade de "LOCKS" em operações DDL,  por exemplo nas operações de "PARTITION SWITCH", reduzindo o tempo de operação deste tipo de manutenções e causando o menor impacto possível no normal funcionamento da nossa base de dados.
+### 
 # 
 #### SessionID: 7307
 # Analysis Services Tabular Internals
@@ -134,7 +134,7 @@ Event Date: 08-10-2014 02:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Thiago Zavaschi
 ## Title: Analysis Services Tabular Internals
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7320
 # SQL Server Best Practices for SharePoint
@@ -143,7 +143,7 @@ Event Date: 08-10-2014 15:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Artur Santos
 ## Title: SQL Server Best Practices for SharePoint
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7308
 # PowerBI e o futuro da análise de dados
@@ -152,7 +152,7 @@ Event Date: 08-10-2014 16:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Felipe Ferreira
 ## Title: PowerBI e o futuro da análise de dados
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7323
 # In-Memory OLAP a.k.a ColumnStore Index Internals
@@ -161,7 +161,7 @@ Event Date: 08-10-2014 17:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Luan Moreno Medeiros Maciel
 ## Title: In-Memory OLAP a.k.a ColumnStore Index Internals
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7309
 # Novidades e Futuro de Azure SQL Database
@@ -170,7 +170,7 @@ Event Date: 08-10-2014 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Vitor Tomaz
 ## Title: Novidades e Futuro de Azure SQL Database
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7310
 # AlwaysOn AG - What's new on SQL Server
@@ -179,7 +179,7 @@ Event Date: 08-10-2014 19:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Murilo Miranda
 ## Title: AlwaysOn AG - What's new on SQL Server
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7311
 # Técnicas de Otimização na implementação
@@ -188,7 +188,7 @@ Event Date: 08-10-2014 20:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Etienne Lopes
 ## Title: Técnicas de Otimização na implementação
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7321
 # Trabalhando com Resource Governor no SQL 2014
@@ -197,7 +197,7 @@ Event Date: 08-10-2014 21:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Marcos Freccia
 ## Title: Trabalhando com Resource Governor no SQL 2014
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7312
 # Data in, Information out - is it SQL? is it SSAS? is it Excel? Internals on PPV
@@ -206,7 +206,7 @@ Event Date: 08-10-2014 22:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Bruno Basto
 ## Title: Data in, Information out - is it SQL? is it SSAS? is it Excel? Internals on PPV
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7313
 # Safety in the cloud
@@ -215,7 +215,7 @@ Event Date: 08-10-2014 23:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Vitor Pombeiro
 ## Title: Safety in the cloud
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7314
 # SSIS Revolution with BIML
@@ -224,7 +224,7 @@ Event Date: 09-10-2014 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): João Lopes
 ## Title: SSIS Revolution with BIML
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7322
 # SQL Server 2014 – New Feature – Delayed Transaction Durability
@@ -233,7 +233,7 @@ Event Date: 09-10-2014 01:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): EDVALDO CASTRO
 ## Title: SQL Server 2014 – New Feature – Delayed Transaction Durability
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 7315
 # Big Data analytics usando Hadoop, SQL e no - SQL
@@ -242,4 +242,4 @@ Event Date: 09-10-2014 02:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Marcondes Alexandre
 ## Title: Big Data analytics usando Hadoop, SQL e no - SQL
 ## Description:
-### System.Xml.XmlElement
+### 

@@ -108,7 +108,7 @@ Event Date: 19-09-2007 09:45 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): Kalen Delaney
 ## Title: The Hidden Costs of Concurrency
 ## Description:
-### The Hidden Costs of Concurrency
+### 
 # 
 #### SessionID: 61887
 # Designing a Business Intelligence Solution using Reporting Services
@@ -117,7 +117,7 @@ Event Date: 19-09-2007 09:45 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): Paul Turley
 ## Title: Designing a Business Intelligence Solution using Reporting Services
 ## Description:
-### Designing a Business Intelligence Solution using Reporting Services
+### 
 # 
 #### SessionID: 61913
 # More on Maximizing Performance in SQL Server 2005
@@ -126,7 +126,7 @@ Event Date: 19-09-2007 09:45 - Category: Regular Session (90 minutes) - Track: D
 ## Speaker(s): Alex Cheng
 ## Title: More on Maximizing Performance in SQL Server 2005
 ## Description:
-### More on Maximizing Performance in SQL Server 2005
+### 
 # 
 #### SessionID: 61857
 # Excel 2007 BI Capabilities
@@ -135,7 +135,7 @@ Event Date: 19-09-2007 09:45 - Category: Regular Session (90 minutes) - Track: B
 ## Speaker(s): Alejandro Leguizamo
 ## Title: Excel 2007 BI Capabilities
 ## Description:
-### Excel 2007 BI Capabilities
+### 
 # 
 #### SessionID: 61919
 # Designing for Petabyte using Lessons Learned from Customer Experiences
@@ -144,7 +144,7 @@ Event Date: 19-09-2007 09:45 - Category: Regular Session (90 minutes) - Track: D
 ## Speaker(s): Lubor Kollar
 ## Title: Designing for Petabyte using Lessons Learned from Customer Experiences
 ## Description:
-### Designing for Petabyte using Lessons Learned from Customer Experiences
+### 
 # 
 #### SessionID: 61870
 # Data Mining within PerformancePoint Server and Forecasting
@@ -153,7 +153,7 @@ Event Date: 19-09-2007 09:45 - Category: Regular Session (90 minutes) - Track: B
 ## Speaker(s): 
 ## Title: Data Mining within PerformancePoint Server and Forecasting
 ## Description:
-### Data Mining within PerformancePoint Server and Forecasting
+### 
 # 
 #### SessionID: 61836
 # User-Defined Functions in SQL Server 2005
@@ -162,7 +162,7 @@ Event Date: 19-09-2007 09:45 - Category: Regular Session (90 minutes) - Track: A
 ## Speaker(s): Andrew Novick
 ## Title: User-Defined Functions in SQL Server 2005
 ## Description:
-### User-Defined Functions in SQL Server 2005
+### 
 # 
 #### SessionID: 61834
 # Developing Scalable Solutions Using SQL Server Notification Services
@@ -171,7 +171,7 @@ Event Date: 19-09-2007 09:45 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): Joe Webb
 ## Title: Developing Scalable Solutions Using SQL Server Notification Services
 ## Description:
-### Developing Scalable Solutions Using SQL Server Notification Services
+### 
 # 
 #### SessionID: 61838
 # Practical Service Broker
@@ -180,7 +180,7 @@ Event Date: 19-09-2007 09:45 - Category: Regular Session (90 minutes) - Track: A
 ## Speaker(s): Ashton Hobbs
 ## Title: Practical Service Broker
 ## Description:
-### Practical Service Broker
+### 
 # 
 #### SessionID: 61855
 # Deep Dive into XQuery and XML in Microsoft SQL Server: Common Problems and Best Practice Solutions
@@ -189,7 +189,7 @@ Event Date: 19-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: A
 ## Speaker(s): 
 ## Title: Deep Dive into XQuery and XML in Microsoft SQL Server: Common Problems and Best Practice Solutions
 ## Description:
-### Deep Dive into XQuery and XML in Microsoft SQL Server: Common Problems and Best Practice Solutions
+### 
 # 
 #### SessionID: 61850
 # Programming in SQL Server 2008
@@ -198,7 +198,7 @@ Event Date: 19-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: A
 ## Speaker(s): 
 ## Title: Programming in SQL Server 2008
 ## Description:
-### Programming in SQL Server 2008
+### 
 # 
 #### SessionID: 61914
 # Securing Metadata in SQL Server 2005
@@ -207,7 +207,7 @@ Event Date: 19-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): Benjamin Nevarez
 ## Title: Securing Metadata in SQL Server 2005
 ## Description:
-### Securing Metadata in SQL Server 2005
+### 
 # 
 #### SessionID: 61860
 # SQL Server 2008 Analysis Services: What`s New
@@ -216,7 +216,7 @@ Event Date: 19-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: B
 ## Speaker(s): 
 ## Title: SQL Server 2008 Analysis Services: What`s New
 ## Description:
-### SQL Server 2008 Analysis Services: What`s New
+### 
 # 
 #### SessionID: 61839
 # Applied Team Edition for Database Professionals
@@ -225,7 +225,7 @@ Event Date: 19-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: A
 ## Speaker(s): Andy Leonard
 ## Title: Applied Team Edition for Database Professionals
 ## Description:
-### Applied Team Edition for Database Professionals
+### 
 # 
 #### SessionID: 61873
 # Advanced Reporting Authoring Techniques with SQL Server Reporting Services
@@ -234,7 +234,7 @@ Event Date: 19-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: B
 ## Speaker(s): Brian Larson
 ## Title: Advanced Reporting Authoring Techniques with SQL Server Reporting Services
 ## Description:
-### Advanced Reporting Authoring Techniques with SQL Server Reporting Services
+### 
 # 
 #### SessionID: 61907
 # (B) Declarative Management Framework
@@ -243,7 +243,7 @@ Event Date: 19-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): Buck Woody
 ## Title: (B) Declarative Management Framework
 ## Description:
-### (B) Declarative Management Framework
+### 
 # 
 #### SessionID: 61865
 # Excel 2007 PivotTables, Conditional Formatting, Data Mining, Excel Services
@@ -252,7 +252,7 @@ Event Date: 19-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: B
 ## Speaker(s): 
 ## Title: Excel 2007 PivotTables, Conditional Formatting, Data Mining, Excel Services
 ## Description:
-### Excel 2007 PivotTables, Conditional Formatting, Data Mining, Excel Services
+### 
 # 
 #### SessionID: 61899
 # Using SMO to Manage SQL Server
@@ -261,7 +261,7 @@ Event Date: 19-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): Allen White
 ## Title: Using SMO to Manage SQL Server
 ## Description:
-### Using SMO to Manage SQL Server
+### 
 # 
 #### SessionID: 61861
 # Introduction to PerformancePoint Server 2007 Monitoring and Analytic Capabilities
@@ -270,7 +270,7 @@ Event Date: 19-09-2007 15:00 - Category: Regular Session (75 minutes) - Track: B
 ## Speaker(s): 
 ## Title: Introduction to PerformancePoint Server 2007 Monitoring and Analytic Capabilities
 ## Description:
-### Introduction to PerformancePoint Server 2007 Monitoring and Analytic Capabilities
+### 
 # 
 #### SessionID: 61902
 # High Performance Data Encryption with SQL Server 2005
@@ -279,7 +279,7 @@ Event Date: 19-09-2007 15:00 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): Lara Rubbelke
 ## Title: High Performance Data Encryption with SQL Server 2005
 ## Description:
-### High Performance Data Encryption with SQL Server 2005
+### 
 # 
 #### SessionID: 61859
 # Creating an SSIS Auditing & Execution Framework
@@ -288,7 +288,7 @@ Event Date: 19-09-2007 15:00 - Category: Regular Session (75 minutes) - Track: B
 ## Speaker(s): Erik Veerman
 ## Title: Creating an SSIS Auditing & Execution Framework
 ## Description:
-### Creating an SSIS Auditing & Execution Framework
+### 
 # 
 #### SessionID: 61846
 # Entity Framework for DBAs - what`s in it for me?
@@ -297,7 +297,7 @@ Event Date: 19-09-2007 15:00 - Category: Regular Session (75 minutes) - Track: A
 ## Speaker(s): 
 ## Title: Entity Framework for DBAs - what`s in it for me?
 ## Description:
-### Entity Framework for DBAs - what`s in it for me?
+### 
 # 
 #### SessionID: 61928
 # The Irony of Opposites for Success
@@ -306,7 +306,7 @@ Event Date: 19-09-2007 15:00 - Category: Regular Session (75 minutes) - Track: P
 ## Speaker(s): Edwin M Sarmiento
 ## Title: The Irony of Opposites for Success
 ## Description:
-### The Irony of Opposites for Success
+### 
 # 
 #### SessionID: 61915
 # Database Recovery for the Paranoid DBA
@@ -315,7 +315,7 @@ Event Date: 19-09-2007 15:00 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): James Luetkehoelter
 ## Title: Database Recovery for the Paranoid DBA
 ## Description:
-### Database Recovery for the Paranoid DBA
+### 
 # 
 #### SessionID: 61878
 # SQL Server 2008 Data Warehousing
@@ -324,7 +324,7 @@ Event Date: 19-09-2007 15:00 - Category: Regular Session (75 minutes) - Track: B
 ## Speaker(s): Eric Hanson
 ## Title: SQL Server 2008 Data Warehousing
 ## Description:
-### SQL Server 2008 Data Warehousing
+### 
 # 
 #### SessionID: 61906
 # SQL Server 2008: Performance Monitoring unsing Management Studio
@@ -333,7 +333,7 @@ Event Date: 19-09-2007 16:30 - Category: Regular Session (90 minutes) - Track: D
 ## Speaker(s): Bill Ramos
 ## Title: SQL Server 2008: Performance Monitoring unsing Management Studio
 ## Description:
-### SQL Server 2008: Performance Monitoring unsing Management Studio
+### 
 # 
 #### SessionID: 61896
 # Disk Configuration for the SQL Server DBA
@@ -342,7 +342,7 @@ Event Date: 19-09-2007 16:30 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): Allan Hirt
 ## Title: Disk Configuration for the SQL Server DBA
 ## Description:
-### Disk Configuration for the SQL Server DBA
+### 
 # 
 #### SessionID: 61927
 # Becoming an IT Manager while staying Technically Savvy
@@ -351,7 +351,7 @@ Event Date: 19-09-2007 16:30 - Category: Regular Session (90 minutes) - Track: P
 ## Speaker(s): Alex Cheng
 ## Title: Becoming an IT Manager while staying Technically Savvy
 ## Description:
-### Becoming an IT Manager while staying Technically Savvy
+### 
 # 
 #### SessionID: 61851
 # What`s between Index Internals, Isolation Levels, Locking and the consistency of Reads
@@ -360,7 +360,7 @@ Event Date: 19-09-2007 16:30 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): Itzik Ben-Gan
 ## Title: What`s between Index Internals, Isolation Levels, Locking and the consistency of Reads
 ## Description:
-### What`s between Index Internals, Isolation Levels, Locking and the consistency of Reads
+### 
 # 
 #### SessionID: 61852
 # Scaleout Scenarios with Service Broker
@@ -369,7 +369,7 @@ Event Date: 19-09-2007 16:30 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): Klaus Aschenbrenner
 ## Title: Scaleout Scenarios with Service Broker
 ## Description:
-### Scaleout Scenarios with Service Broker
+### 
 # 
 #### SessionID: 61858
 # Delivering BI Solutions with MOSS 2007
@@ -378,7 +378,7 @@ Event Date: 19-09-2007 16:30 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): Dave Fackler
 ## Title: Delivering BI Solutions with MOSS 2007
 ## Description:
-### Delivering BI Solutions with MOSS 2007
+### 
 # 
 #### SessionID: 61879
 # Searching Business Intelligence Data in Microsoft Office SharePoint Server 2007
@@ -387,7 +387,7 @@ Event Date: 19-09-2007 16:30 - Category: Regular Session (90 minutes) - Track: B
 ## Speaker(s): Stacia Varga
 ## Title: Searching Business Intelligence Data in Microsoft Office SharePoint Server 2007
 ## Description:
-### Searching Business Intelligence Data in Microsoft Office SharePoint Server 2007
+### 
 # 
 #### SessionID: 61877
 # Managing Large Data Warehouses
@@ -396,7 +396,7 @@ Event Date: 19-09-2007 16:30 - Category: Regular Session (90 minutes) - Track: B
 ## Speaker(s): Erin Welker
 ## Title: Managing Large Data Warehouses
 ## Description:
-### Managing Large Data Warehouses
+### 
 # 
 #### SessionID: 61901
 # Plan Cache Analysis in SQL Server 200
@@ -405,7 +405,7 @@ Event Date: 20-09-2007 10:15 - Category: Regular Session (90 minutes) - Track: D
 ## Speaker(s): 
 ## Title: Plan Cache Analysis in SQL Server 200
 ## Description:
-### Plan Cache Analysis in SQL Server 200
+### 
 # 
 #### SessionID: 61890
 # Transactional Replication for Beginners
@@ -414,7 +414,7 @@ Event Date: 20-09-2007 10:15 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): Andy Warren
 ## Title: Transactional Replication for Beginners
 ## Description:
-### Transactional Replication for Beginners
+### 
 # 
 #### SessionID: 61886
 # SSIS Pipeline Internals
@@ -423,7 +423,7 @@ Event Date: 20-09-2007 10:15 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): 
 ## Title: SSIS Pipeline Internals
 ## Description:
-### SSIS Pipeline Internals
+### 
 # 
 #### SessionID: 61888
 # Integrate Your SSIS Development!
@@ -432,7 +432,7 @@ Event Date: 20-09-2007 10:15 - Category: Regular Session (90 minutes) - Track: B
 ## Speaker(s): Andy Leonard
 ## Title: Integrate Your SSIS Development!
 ## Description:
-### Integrate Your SSIS Development!
+### 
 # 
 #### SessionID: 61862
 # PerformancePoint Server 2007: Planning Essentials
@@ -441,7 +441,7 @@ Event Date: 20-09-2007 10:15 - Category: Regular Session (90 minutes) - Track: B
 ## Speaker(s): 
 ## Title: PerformancePoint Server 2007: Planning Essentials
 ## Description:
-### PerformancePoint Server 2007: Planning Essentials
+### 
 # 
 #### SessionID: 61920
 # ISV Configuration & Implementation using Lessons Learned from Customers
@@ -450,7 +450,7 @@ Event Date: 20-09-2007 10:15 - Category: Regular Session (90 minutes) - Track: D
 ## Speaker(s): Juergen Thomas
 ## Title: ISV Configuration & Implementation using Lessons Learned from Customers
 ## Description:
-### ISV Configuration & Implementation using Lessons Learned from Customers
+### 
 # 
 #### SessionID: 61908
 # SQL Server Always On: What`s New in SQL Server 2008
@@ -459,7 +459,7 @@ Event Date: 20-09-2007 10:15 - Category: Regular Session (90 minutes) - Track: D
 ## Speaker(s): 
 ## Title: SQL Server Always On: What`s New in SQL Server 2008
 ## Description:
-### SQL Server Always On: What`s New in SQL Server 2008
+### 
 # 
 #### SessionID: 61909
 # The benefits of using an integrated ER data modeling tool with Microsoft Visual Studio .NET for Database Professionals
@@ -468,7 +468,7 @@ Event Date: 20-09-2007 10:15 - Category: Regular Session (90 minutes) - Track: D
 ## Speaker(s): 
 ## Title: The benefits of using an integrated ER data modeling tool with Microsoft Visual Studio .NET for Database Professionals
 ## Description:
-### The benefits of using an integrated ER data modeling tool with Microsoft Visual Studio .NET for Database Professionals
+### 
 # 
 #### SessionID: 61847
 # Building Spatial Application with SQL Server
@@ -477,7 +477,7 @@ Event Date: 20-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: A
 ## Speaker(s): Isaac Kunen
 ## Title: Building Spatial Application with SQL Server
 ## Description:
-### Building Spatial Application with SQL Server
+### 
 # 
 #### SessionID: 61921
 # Building Highly Available SQL Server Implementations using Lessons Learned from Customer Deployments
@@ -486,7 +486,7 @@ Event Date: 20-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): Lindsey Allen
 ## Title: Building Highly Available SQL Server Implementations using Lessons Learned from Customer Deployments
 ## Description:
-### Building Highly Available SQL Server Implementations using Lessons Learned from Customer Deployments
+### 
 # 
 #### SessionID: 61840
 # Integrating SSRS with Custom Applications
@@ -495,7 +495,7 @@ Event Date: 20-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: A
 ## Speaker(s): Brian Larson
 ## Title: Integrating SSRS with Custom Applications
 ## Description:
-### Integrating SSRS with Custom Applications
+### 
 # 
 #### SessionID: 61925
 # Supporting SQL 2005 on Windows 2003 Server Clustering
@@ -504,7 +504,7 @@ Event Date: 20-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): 
 ## Title: Supporting SQL 2005 on Windows 2003 Server Clustering
 ## Description:
-### Supporting SQL 2005 on Windows 2003 Server Clustering
+### 
 # 
 #### SessionID: 61894
 # Using the SQLCMD utility to automate DBA tasks
@@ -513,7 +513,7 @@ Event Date: 20-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): Ross LoForte
 ## Title: Using the SQLCMD utility to automate DBA tasks
 ## Description:
-### Using the SQLCMD utility to automate DBA tasks
+### 
 # 
 #### SessionID: 61874
 # Understanding Attribute Relationships within SSAS Dimensions
@@ -522,7 +522,7 @@ Event Date: 20-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: B
 ## Speaker(s): Dave Fackler
 ## Title: Understanding Attribute Relationships within SSAS Dimensions
 ## Description:
-### Understanding Attribute Relationships within SSAS Dimensions
+### 
 # 
 #### SessionID: 61866
 # Data Mining for the Rest of Us
@@ -531,7 +531,7 @@ Event Date: 20-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: B
 ## Speaker(s): Stacia Varga
 ## Title: Data Mining for the Rest of Us
 ## Description:
-### Data Mining for the Rest of Us
+### 
 # 
 #### SessionID: 61900
 # Dynamic Duo: Views and Functions to make your life with SQL Server 2005 easier
@@ -540,7 +540,7 @@ Event Date: 20-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): Rick Heiges
 ## Title: Dynamic Duo: Views and Functions to make your life with SQL Server 2005 easier
 ## Description:
-### Dynamic Duo: Views and Functions to make your life with SQL Server 2005 easier
+### 
 # 
 #### SessionID: 61880
 # What is New in SQL Server Integration Services In 2008
@@ -549,7 +549,7 @@ Event Date: 20-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: B
 ## Speaker(s): 
 ## Title: What is New in SQL Server Integration Services In 2008
 ## Description:
-### What is New in SQL Server Integration Services In 2008
+### 
 # 
 #### SessionID: 61916
 # SQL Server 2005 Consolidation: Lesson Learned
@@ -558,7 +558,7 @@ Event Date: 20-09-2007 13:30 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): Joe Yong
 ## Title: SQL Server 2005 Consolidation: Lesson Learned
 ## Description:
-### SQL Server 2005 Consolidation: Lesson Learned
+### 
 # 
 #### SessionID: 61929
 # How to Hire a DBA
@@ -567,7 +567,7 @@ Event Date: 20-09-2007 15:15 - Category: Regular Session (75 minutes) - Track: P
 ## Speaker(s): Chris Shaw
 ## Title: How to Hire a DBA
 ## Description:
-### How to Hire a DBA
+### 
 # 
 #### SessionID: 61926
 # Debugging the Toughest SQL Server 2005 Problems
@@ -576,7 +576,7 @@ Event Date: 20-09-2007 15:15 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): Bob Ward
 ## Title: Debugging the Toughest SQL Server 2005 Problems
 ## Description:
-### Debugging the Toughest SQL Server 2005 Problems
+### 
 # 
 #### SessionID: 61892
 # Best Practices when Best Practices are not an option
@@ -585,7 +585,7 @@ Event Date: 20-09-2007 15:15 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): 
 ## Title: Best Practices when Best Practices are not an option
 ## Description:
-### Best Practices when Best Practices are not an option
+### 
 # 
 #### SessionID: 61891
 # Microsoft Operations Manager for the DBA
@@ -594,7 +594,7 @@ Event Date: 20-09-2007 15:15 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): Thomas LaRock
 ## Title: Microsoft Operations Manager for the DBA
 ## Description:
-### Microsoft Operations Manager for the DBA
+### 
 # 
 #### SessionID: 61883
 # Building Dashboards and Scorecards using PerformancePoint Server 2007
@@ -603,7 +603,7 @@ Event Date: 20-09-2007 15:15 - Category: Regular Session (75 minutes) - Track: B
 ## Speaker(s): 
 ## Title: Building Dashboards and Scorecards using PerformancePoint Server 2007
 ## Description:
-### Building Dashboards and Scorecards using PerformancePoint Server 2007
+### 
 # 
 #### SessionID: 61875
 # Super Reports: One Report for Many Requirements
@@ -612,7 +612,7 @@ Event Date: 20-09-2007 15:15 - Category: Regular Session (75 minutes) - Track: B
 ## Speaker(s): Paul Turley
 ## Title: Super Reports: One Report for Many Requirements
 ## Description:
-### Super Reports: One Report for Many Requirements
+### 
 # 
 #### SessionID: 61882
 # Rich Report Design with SQL Server 2008 Reporting Services
@@ -621,7 +621,7 @@ Event Date: 20-09-2007 15:15 - Category: Regular Session (75 minutes) - Track: B
 ## Speaker(s): 
 ## Title: Rich Report Design with SQL Server 2008 Reporting Services
 ## Description:
-### Rich Report Design with SQL Server 2008 Reporting Services
+### 
 # 
 #### SessionID: 61841
 # Final Line of Defense: Encrypting Valuable Data
@@ -630,7 +630,7 @@ Event Date: 20-09-2007 15:15 - Category: Regular Session (75 minutes) - Track: A
 ## Speaker(s): Don Kiely
 ## Title: Final Line of Defense: Encrypting Valuable Data
 ## Description:
-### Final Line of Defense: Encrypting Valuable Data
+### 
 # 
 #### SessionID: 61863
 # Planning & Executing a Data Mining Project with SQL Server Data Mining
@@ -639,7 +639,7 @@ Event Date: 20-09-2007 15:15 - Category: Regular Session (75 minutes) - Track: B
 ## Speaker(s): 
 ## Title: Planning & Executing a Data Mining Project with SQL Server Data Mining
 ## Description:
-### Planning & Executing a Data Mining Project with SQL Server Data Mining
+### 
 # 
 #### SessionID: 61842
 # Using CLR Assemblies with SQL Server Stored Procedures
@@ -648,7 +648,7 @@ Event Date: 20-09-2007 16:45 - Category: Regular Session (90 minutes) - Track: A
 ## Speaker(s): Steve Simon
 ## Title: Using CLR Assemblies with SQL Server Stored Procedures
 ## Description:
-### Using CLR Assemblies with SQL Server Stored Procedures
+### 
 # 
 #### SessionID: 61867
 # Using ProClarity Dashboards to Deliver Business Intelligence
@@ -657,7 +657,7 @@ Event Date: 20-09-2007 16:45 - Category: Regular Session (90 minutes) - Track: B
 ## Speaker(s): John Welch
 ## Title: Using ProClarity Dashboards to Deliver Business Intelligence
 ## Description:
-### Using ProClarity Dashboards to Deliver Business Intelligence
+### 
 # 
 #### SessionID: 61889
 # Tips for Migrating Analysis Services 2000 to 2005
@@ -666,7 +666,7 @@ Event Date: 20-09-2007 16:45 - Category: Regular Session (90 minutes) - Track: B
 ## Speaker(s): 
 ## Title: Tips for Migrating Analysis Services 2000 to 2005
 ## Description:
-### Tips for Migrating Analysis Services 2000 to 2005
+### 
 # 
 #### SessionID: 61911
 # Practical Performance Monitoring
@@ -675,7 +675,7 @@ Event Date: 20-09-2007 16:45 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): Andrew Kelly
 ## Title: Practical Performance Monitoring
 ## Description:
-### Practical Performance Monitoring
+### 
 # 
 #### SessionID: 61853
 # Open Schema
@@ -684,7 +684,7 @@ Event Date: 20-09-2007 16:45 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): Dejan Sarka
 ## Title: Open Schema
 ## Description:
-### Open Schema
+### 
 # 
 #### SessionID: 61837
 # Database Schema Versioning: How to Use Microsoft Visual Studio Team System for Database Profesionals and Team Foundation Server to Version and Deploy your databases
@@ -693,7 +693,7 @@ Event Date: 20-09-2007 16:45 - Category: Regular Session (90 minutes) - Track: A
 ## Speaker(s): Gert Drapers
 ## Title: Database Schema Versioning: How to Use Microsoft Visual Studio Team System for Database Profesionals and Team Foundation Server to Version and Deploy your databases
 ## Description:
-### Database Schema Versioning: How to Use Microsoft Visual Studio Team System for Database Profesionals and Team Foundation Server to Version and Deploy your databases
+### 
 # 
 #### SessionID: 61897
 # Engineering 101 for the SQL Server DBA
@@ -702,7 +702,7 @@ Event Date: 20-09-2007 16:45 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): Peter Ward
 ## Title: Engineering 101 for the SQL Server DBA
 ## Description:
-### Engineering 101 for the SQL Server DBA
+### 
 # 
 #### SessionID: 61872
 # Analysis Services – It`s About Time!
@@ -711,7 +711,7 @@ Event Date: 20-09-2007 17:00 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): Wayne Snyder
 ## Title: Analysis Services – It`s About Time!
 ## Description:
-### Analysis Services – It`s About Time!
+### 
 # 
 #### SessionID: 61876
 # Integrating Data Mining with SQL Server 2005 Integration Services
@@ -720,7 +720,7 @@ Event Date: 21-09-2007 09:45 - Category: Regular Session (90 minutes) - Track: B
 ## Speaker(s): Trey Johnson
 ## Title: Integrating Data Mining with SQL Server 2005 Integration Services
 ## Description:
-### Integrating Data Mining with SQL Server 2005 Integration Services
+### 
 # 
 #### SessionID: 61856
 # What`s So Common About Common Table Expressions
@@ -729,7 +729,7 @@ Event Date: 21-09-2007 09:45 - Category: Regular Session (90 minutes) - Track: A
 ## Speaker(s): Don Kiely
 ## Title: What`s So Common About Common Table Expressions
 ## Description:
-### What`s So Common About Common Table Expressions
+### 
 # 
 #### SessionID: 61898
 # Performance Baselining, Benchmarking, and Monitoring
@@ -738,7 +738,7 @@ Event Date: 21-09-2007 09:45 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): Kevin Kline
 ## Title: Performance Baselining, Benchmarking, and Monitoring
 ## Description:
-### Performance Baselining, Benchmarking, and Monitoring
+### 
 # 
 #### SessionID: 61835
 # New T-SQL in SQL Server 2005
@@ -747,7 +747,7 @@ Event Date: 21-09-2007 09:45 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): 
 ## Title: New T-SQL in SQL Server 2005
 ## Description:
-### New T-SQL in SQL Server 2005
+### 
 # 
 #### SessionID: 61893
 # SQL Server 2005 Post-Install Configurations
@@ -756,7 +756,7 @@ Event Date: 21-09-2007 09:45 - Category: Regular Session (90 minutes) - Track: D
 ## Speaker(s): Nancy Hidy Wilson
 ## Title: SQL Server 2005 Post-Install Configurations
 ## Description:
-### SQL Server 2005 Post-Install Configurations
+### 
 # 
 #### SessionID: 61905
 # SQL Server on SANs - Notes from an Enterprise
@@ -765,7 +765,7 @@ Event Date: 21-09-2007 09:45 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): Linchi Shea
 ## Title: SQL Server on SANs - Notes from an Enterprise
 ## Description:
-### SQL Server on SANs - Notes from an Enterprise
+### 
 # 
 #### SessionID: 61924
 # Building & Deploying Large Scale SSRS using Lessons Learned from Customer Deployments
@@ -774,7 +774,7 @@ Event Date: 21-09-2007 09:45 - Category: Regular Session (90 minutes) - Track: D
 ## Speaker(s): Denny Lee
 ## Title: Building & Deploying Large Scale SSRS using Lessons Learned from Customer Deployments
 ## Description:
-### Building & Deploying Large Scale SSRS using Lessons Learned from Customer Deployments
+### 
 # 
 #### SessionID: 61848
 # Optimizing Online, Enabling Offline with SQL Server Compact and Sync Services for ADO.NET
@@ -783,7 +783,7 @@ Event Date: 21-09-2007 09:45 - Category: Regular Session (90 minutes) - Track: A
 ## Speaker(s): Sean Kelley
 ## Title: Optimizing Online, Enabling Offline with SQL Server Compact and Sync Services for ADO.NET
 ## Description:
-### Optimizing Online, Enabling Offline with SQL Server Compact and Sync Services for ADO.NET
+### 
 # 
 #### SessionID: 61871
 # High-Performance Data Warehouses
@@ -792,7 +792,7 @@ Event Date: 21-09-2007 09:45 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): Erin Welker
 ## Title: High-Performance Data Warehouses
 ## Description:
-### High-Performance Data Warehouses
+### 
 # 
 #### SessionID: 61849
 # What has changed? Tracking and Capturing Data Changes in SQL Server 2008
@@ -801,7 +801,7 @@ Event Date: 21-09-2007 13:00 - Category: Regular Session (75 minutes) - Track: A
 ## Speaker(s): Mark Scurrell
 ## Title: What has changed? Tracking and Capturing Data Changes in SQL Server 2008
 ## Description:
-### What has changed? Tracking and Capturing Data Changes in SQL Server 2008
+### 
 # 
 #### SessionID: 61917
 # Hash Partitioning and Scaling the OLTP Database
@@ -810,7 +810,7 @@ Event Date: 21-09-2007 13:00 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): 
 ## Title: Hash Partitioning and Scaling the OLTP Database
 ## Description:
-### Hash Partitioning and Scaling the OLTP Database
+### 
 # 
 #### SessionID: 61923
 # Design, Building & Maintaining large cubes using Lessons Learned from customer deployments
@@ -819,7 +819,7 @@ Event Date: 21-09-2007 13:00 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): Nicholas Dritsas
 ## Title: Design, Building & Maintaining large cubes using Lessons Learned from customer deployments
 ## Description:
-### Design, Building & Maintaining large cubes using Lessons Learned from customer deployments
+### 
 # 
 #### SessionID: 61854
 # Avoiding Stored Procedure Recompiles
@@ -828,7 +828,7 @@ Event Date: 21-09-2007 13:00 - Category: Regular Session (75 minutes) - Track: A
 ## Speaker(s): Greg Low
 ## Title: Avoiding Stored Procedure Recompiles
 ## Description:
-### Avoiding Stored Procedure Recompiles
+### 
 # 
 #### SessionID: 61884
 # SQL Server 2005 Data Mining: A Platform for Intelligent Applications
@@ -837,7 +837,7 @@ Event Date: 21-09-2007 13:00 - Category: Regular Session (75 minutes) - Track: B
 ## Speaker(s): 
 ## Title: SQL Server 2005 Data Mining: A Platform for Intelligent Applications
 ## Description:
-### SQL Server 2005 Data Mining: A Platform for Intelligent Applications
+### 
 # 
 #### SessionID: 61903
 # SQL Server 2005 High Availability Alternatives
@@ -846,7 +846,7 @@ Event Date: 21-09-2007 13:00 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): Ross Mistry
 ## Title: SQL Server 2005 High Availability Alternatives
 ## Description:
-### SQL Server 2005 High Availability Alternatives
+### 
 # 
 #### SessionID: 61885
 # Implementing and Troubleshooting Database Mirroring with 2008 Updates
@@ -855,7 +855,7 @@ Event Date: 21-09-2007 13:00 - Category: Regular Session (75 minutes) - Track: B
 ## Speaker(s): 
 ## Title: Implementing and Troubleshooting Database Mirroring with 2008 Updates
 ## Description:
-### Implementing and Troubleshooting Database Mirroring with 2008 Updates
+### 
 # 
 #### SessionID: 61868
 # Using PerformancePoint Server Plan for Non-Financial Applications
@@ -864,7 +864,7 @@ Event Date: 21-09-2007 13:00 - Category: Regular Session (75 minutes) - Track: B
 ## Speaker(s): David Darden
 ## Title: Using PerformancePoint Server Plan for Non-Financial Applications
 ## Description:
-### Using PerformancePoint Server Plan for Non-Financial Applications
+### 
 # 
 #### SessionID: 61910
 # Debugging Security in SQL Server 2005
@@ -873,7 +873,7 @@ Event Date: 21-09-2007 13:00 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): 
 ## Title: Debugging Security in SQL Server 2005
 ## Description:
-### Debugging Security in SQL Server 2005
+### 
 # 
 #### SessionID: 61904
 # Monitoring SQL Server with SQLH2
@@ -882,7 +882,7 @@ Event Date: 21-09-2007 14:30 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): Sharon Dooley
 ## Title: Monitoring SQL Server with SQLH2
 ## Description:
-### Monitoring SQL Server with SQLH2
+### 
 # 
 #### SessionID: 61931
 # The Changing Role of the MS SQL Server Pro
@@ -891,7 +891,7 @@ Event Date: 21-09-2007 14:30 - Category: Regular Session (75 minutes) - Track: P
 ## Speaker(s): 
 ## Title: The Changing Role of the MS SQL Server Pro
 ## Description:
-### The Changing Role of the MS SQL Server Pro
+### 
 # 
 #### SessionID: 61864
 # Microsoft Office Excel 2007 and SQL Server 2005 Analysis Services Integration Explained
@@ -900,7 +900,7 @@ Event Date: 21-09-2007 14:30 - Category: Regular Session (75 minutes) - Track: B
 ## Speaker(s): 
 ## Title: Microsoft Office Excel 2007 and SQL Server 2005 Analysis Services Integration Explained
 ## Description:
-### Microsoft Office Excel 2007 and SQL Server 2005 Analysis Services Integration Explained
+### 
 # 
 #### SessionID: 61918
 # Taking Control of your SQL Server 2005 Workloads
@@ -909,7 +909,7 @@ Event Date: 21-09-2007 14:30 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): 
 ## Title: Taking Control of your SQL Server 2005 Workloads
 ## Description:
-### Taking Control of your SQL Server 2005 Workloads
+### 
 # 
 #### SessionID: 61922
 # SQL Server 2005 Server Consolidation Update
@@ -918,7 +918,7 @@ Event Date: 21-09-2007 14:30 - Category: Regular Session (75 minutes) - Track: D
 ## Speaker(s): Prem Mehra
 ## Title: SQL Server 2005 Server Consolidation Update
 ## Description:
-### SQL Server 2005 Server Consolidation Update
+### 
 # 
 #### SessionID: 61895
 # Data Protection Manager (DPM) 2007 - How to protect SQL Server
@@ -927,7 +927,7 @@ Event Date: 21-09-2007 16:00 - Category: Regular Session (90 minutes) - Track: D
 ## Speaker(s): 
 ## Title: Data Protection Manager (DPM) 2007 - How to protect SQL Server
 ## Description:
-### Data Protection Manager (DPM) 2007 - How to protect SQL Server
+### 
 # 
 #### SessionID: 61930
 # Telecommuting
@@ -936,7 +936,7 @@ Event Date: 21-09-2007 16:00 - Category: Regular Session (90 minutes) - Track: P
 ## Speaker(s): Michael Lato
 ## Title: Telecommuting
 ## Description:
-### Telecommuting
+### 
 # 
 #### SessionID: 61869
 # Using Excel Services for uploading data to Data Warehouse
@@ -945,7 +945,7 @@ Event Date: 21-09-2007 16:00 - Category: Regular Session (90 minutes) - Track: B
 ## Speaker(s): Harsh Bhaiya
 ## Title: Using Excel Services for uploading data to Data Warehouse
 ## Description:
-### Using Excel Services for uploading data to Data Warehouse
+### 
 # 
 #### SessionID: 61844
 # Integrating Business Intelligence into Applications
@@ -954,7 +954,7 @@ Event Date: 21-09-2007 16:00 - Category: Regular Session (75 minutes) - Track: A
 ## Speaker(s): 
 ## Title: Integrating Business Intelligence into Applications
 ## Description:
-### Integrating Business Intelligence into Applications
+### 
 # 
 #### SessionID: 61881
 # SQL Server 2008 Reporting Services Architecture Drill-Down
@@ -963,7 +963,7 @@ Event Date: 21-09-2007 16:00 - Category: Regular Session (90 minutes) - Track: B
 ## Speaker(s): Lukasz Pawlowski
 ## Title: SQL Server 2008 Reporting Services Architecture Drill-Down
 ## Description:
-### SQL Server 2008 Reporting Services Architecture Drill-Down
+### 
 # 
 #### SessionID: 61845
 # Inside an MVP`s ISV
@@ -972,4 +972,4 @@ Event Date: 21-09-2007 16:00 - Category: Spotlight Session (90 minutes) - Track:
 ## Speaker(s): Paul Nielsen
 ## Title: Inside an MVP`s ISV
 ## Description:
-### Inside an MVP`s ISV
+### 

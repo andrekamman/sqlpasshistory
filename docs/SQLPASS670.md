@@ -35,7 +35,7 @@ Event Date: 06-12-2016 13:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Kenneth Urena
 ## Title: Diseñando mi datawarehouse "Disaster recovery ready"
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56737
 # Azure SQL Data Warehouse para DBAs de SQL Server
@@ -44,7 +44,7 @@ Event Date: 06-12-2016 14:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Warner Chaves
 ## Title: Azure SQL Data Warehouse para DBAs de SQL Server
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56741
 # SQLCmd fuera de la caja: utilizaciones creativas de la línea de comando
@@ -53,7 +53,7 @@ Event Date: 06-12-2016 15:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Geri Reshef
 ## Title: SQLCmd fuera de la caja: utilizaciones creativas de la línea de comando
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56738
 # Paso de TI, tengo Power BI
@@ -62,7 +62,7 @@ Event Date: 06-12-2016 16:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Salvador Ramos
 ## Title: Paso de TI, tengo Power BI
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56742
 # Implementando un motor de búsqueda - Azure Search
@@ -71,7 +71,7 @@ Event Date: 06-12-2016 17:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Julio Avellaneda
 ## Title: Implementando un motor de búsqueda - Azure Search
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56709
 # Utilizando Azure Machine Learning para predecir el IPC
@@ -80,7 +80,7 @@ Event Date: 06-12-2016 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Patricio Cofre
 ## Title: Utilizando Azure Machine Learning para predecir el IPC
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56739
 # Nuevas Caracteristicas de SQL Server 2016 para DBAs
@@ -89,7 +89,7 @@ Event Date: 06-12-2016 19:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Javier Villegas
 ## Title: Nuevas Caracteristicas de SQL Server 2016 para DBAs
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56743
 # Utilización de R en Analisis de Datos
@@ -98,7 +98,7 @@ Event Date: 06-12-2016 20:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Julio A Garcia
 ## Title: Utilización de R en Analisis de Datos
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56710
 # Guía rápida del mercado de Business Intelligence de Hoy
@@ -107,7 +107,7 @@ Event Date: 06-12-2016 21:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Mary Arcia
 ## Title: Guía rápida del mercado de Business Intelligence de Hoy
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56711
 # Integrando multiples fuentes de datos en Microsoft Azure
@@ -116,7 +116,7 @@ Event Date: 06-12-2016 22:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Adrian Miranda
 ## Title: Integrando multiples fuentes de datos en Microsoft Azure
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56712
 # Reportes modernos y mobiles desarrollando con Reporting Services 2016
@@ -125,7 +125,7 @@ Event Date: 06-12-2016 23:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Juan Alvarado
 ## Title: Reportes modernos y mobiles desarrollando con Reporting Services 2016
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56740
 # Novedades en SQL Server 2016 Integration Services
@@ -134,7 +134,7 @@ Event Date: 07-12-2016 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Carlos A. Ulate Hernandez
 ## Title: Novedades en SQL Server 2016 Integration Services
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56744
 # SQL Server, Next station Azure
@@ -143,7 +143,7 @@ Event Date: 07-12-2016 13:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Jose Manuel Jurado Diaz
 ## Title: SQL Server, Next station Azure
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56713
 # Migrando a SQL Server 2016, el que? el como? y el porque?
@@ -152,7 +152,7 @@ Event Date: 07-12-2016 14:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Jesus Gil
 ## Title: Migrando a SQL Server 2016, el que? el como? y el porque?
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56714
 # Cognitive Computing con Microsoft
@@ -161,7 +161,7 @@ Event Date: 07-12-2016 15:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Eduardo Castro
 ## Title: Cognitive Computing con Microsoft
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56715
 # Transformando datos con R y dplyr
@@ -170,7 +170,7 @@ Event Date: 07-12-2016 16:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Jose L. Rivera
 ## Title: Transformando datos con R y dplyr
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56716
 # Opciones de Cluster en Windows Server 2016 y SQL-Server 2016 AlwaysOn
@@ -179,7 +179,7 @@ Event Date: 07-12-2016 17:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Carlos Rojas Vargas
 ## Title: Opciones de Cluster en Windows Server 2016 y SQL-Server 2016 AlwaysOn
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56717
 # Preparacion de datos de avanzada con Power BI
@@ -188,7 +188,7 @@ Event Date: 07-12-2016 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): 
 ## Title: Preparacion de datos de avanzada con Power BI
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56745
 # Aprender DAX en 60 minutos con Power BI
@@ -197,7 +197,7 @@ Event Date: 07-12-2016 19:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Ahias Portillo
 ## Title: Aprender DAX en 60 minutos con Power BI
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56746
 # Las mejores practicas para implementar cargas de trabajo de SQL Server hacia Azure IaaS
@@ -206,7 +206,7 @@ Event Date: 07-12-2016 20:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Daniel Vargas
 ## Title: Las mejores practicas para implementar cargas de trabajo de SQL Server hacia Azure IaaS
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56718
 # Valores por defecto y/o por Default? Data Warehouse Best Practices...
@@ -215,7 +215,7 @@ Event Date: 07-12-2016 21:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Ricardo Estrada
 ## Title: Valores por defecto y/o por Default? Data Warehouse Best Practices...
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56719
 # Introducción a Mobile Reports
@@ -224,7 +224,7 @@ Event Date: 07-12-2016 22:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Marco Tulio Gómez Reyes
 ## Title: Introducción a Mobile Reports
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56720
 # Primeros pasos con SQL 2016 Query Store
@@ -233,7 +233,7 @@ Event Date: 07-12-2016 23:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Alejandro Cordero
 ## Title: Primeros pasos con SQL 2016 Query Store
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 56747
 # Primeros pasos con Azure Data Factory
@@ -242,4 +242,4 @@ Event Date: 08-12-2016 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Julián Alberto Castiblanco Palacios
 ## Title: Primeros pasos con Azure Data Factory
 ## Description:
-### System.Xml.XmlElement
+### 

@@ -36,7 +36,7 @@ Event Date: 12-12-2013 14:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Eduardo Castro
 ## Title: Alta disponibilidad y escalabilidad de Análisis Services 2012
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5876
 # Guias y Recomendaciones para instalar y configurar Clusters de SQL Server
@@ -45,7 +45,7 @@ Event Date: 12-12-2013 15:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Enrique Catala
 ## Title: Guias y Recomendaciones para instalar y configurar Clusters de SQL Server
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5877
 # Power Query y Self-Service ETL
@@ -54,7 +54,7 @@ Event Date: 12-12-2013 16:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Rafael Salas
 ## Title: Power Query y Self-Service ETL
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5878
 # Big Data. HortonWorks y microsoft ON premis
@@ -63,7 +63,7 @@ Event Date: 12-12-2013 17:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Miguel Egea
 ## Title: Big Data. HortonWorks y microsoft ON premis
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5879
 # Conviértete en un PowerDBA con PowerShell
@@ -72,7 +72,7 @@ Event Date: 12-12-2013 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Enrique Puig
 ## Title: Conviértete en un PowerDBA con PowerShell
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5890
 # BI con MS Office Excel 2013
@@ -81,7 +81,7 @@ Event Date: 12-12-2013 19:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Ana Maria Bisbé York
 ## Title: BI con MS Office Excel 2013
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5881
 # Aprende todo acerca de SQL Server en 1 hora
@@ -90,7 +90,7 @@ Event Date: 12-12-2013 20:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Jose Chinchilla
 ## Title: Aprende todo acerca de SQL Server en 1 hora
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5882
 # BI Espacial: El futuro en la toma de decisiones
@@ -99,7 +99,7 @@ Event Date: 12-12-2013 21:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Luis Alberto Rivera Tavera
 ## Title: BI Espacial: El futuro en la toma de decisiones
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5883
 # Migrando a una nueva versión, el porque?, para que? Y el cómo?
@@ -108,7 +108,7 @@ Event Date: 12-12-2013 22:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Jesus Gil Velasco
 ## Title: Migrando a una nueva versión, el porque?, para que? Y el cómo?
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5884
 # Enséñele nuevos trucos a su código, optimizando sus consultas
@@ -117,7 +117,7 @@ Event Date: 12-12-2013 23:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Ricardo Estrada, Ahias Portillo
 ## Title: Enséñele nuevos trucos a su código, optimizando sus consultas
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5885
 # SQL Server--En juego o fuera de juego?
@@ -126,7 +126,7 @@ Event Date: 13-12-2013 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Carlos L Chacon
 ## Title: SQL Server--En juego o fuera de juego?
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5886
 # Estrategias de indexación y buenos diseños físicos para obtener mejor rendimiento
@@ -135,7 +135,7 @@ Event Date: 13-12-2013 01:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Kenneth Urena
 ## Title: Estrategias de indexación y buenos diseños físicos para obtener mejor rendimiento
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5887
 # Dive into the Query Optimizer - Undocumented Insight
@@ -144,7 +144,7 @@ Event Date: 13-12-2013 02:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Benjamin Nevarez
 ## Title: Dive into the Query Optimizer - Undocumented Insight
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5888
 # Big Data y HDInsight: Hablitando nuevos escenarios para procesamiento y análisis de datos
@@ -153,7 +153,7 @@ Event Date: 13-12-2013 14:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Alan Koo
 ## Title: Big Data y HDInsight: Hablitando nuevos escenarios para procesamiento y análisis de datos
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5889
 # Resolviendo problemas a usuarios de Negocio mediante SSAS Tabular y PowerPivot
@@ -162,7 +162,7 @@ Event Date: 13-12-2013 15:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Salvador Ramos
 ## Title: Resolviendo problemas a usuarios de Negocio mediante SSAS Tabular y PowerPivot
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5880
 # El Flujo de datos desde la aplicación hasta el repositorio de BigData
@@ -171,7 +171,7 @@ Event Date: 13-12-2013 16:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Eladio Rincon
 ## Title: El Flujo de datos desde la aplicación hasta el repositorio de BigData
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5891
 # De Ad-Hoc a SelfService
@@ -180,7 +180,7 @@ Event Date: 13-12-2013 17:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): John Bocachica
 ## Title: De Ad-Hoc a SelfService
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5892
 # Gestión de archivos y espacio en disco para SQL Server 2012
@@ -189,7 +189,7 @@ Event Date: 13-12-2013 18:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Guillermo Taylor
 ## Title: Gestión de archivos y espacio en disco para SQL Server 2012
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5893
 # Power Query y Power MAP
@@ -198,7 +198,7 @@ Event Date: 13-12-2013 19:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Juan Alvarado
 ## Title: Power Query y Power MAP
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5894
 # Mejorando nuestro BI con información geoposicionada y Reporting Services
@@ -207,7 +207,7 @@ Event Date: 13-12-2013 20:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Ruben Pertusa Lopez, Mary Arcia
 ## Title: Mejorando nuestro BI con información geoposicionada y Reporting Services
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5899
 # Diseñando un Data Warehouse
@@ -216,7 +216,7 @@ Event Date: 13-12-2013 21:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): César Oviedo
 ## Title: Diseñando un Data Warehouse
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5895
 # Llevando tu TSQL al próximo nivel
@@ -225,7 +225,7 @@ Event Date: 13-12-2013 22:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Jose L. Rivera
 ## Title: Llevando tu TSQL al próximo nivel
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5896
 # BI Full Picture, explotándolo con Office 365
@@ -234,7 +234,7 @@ Event Date: 13-12-2013 23:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): David Sánchez Aguilar, Nancy Ramirez Romero
 ## Title: BI Full Picture, explotándolo con Office 365
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5897
 # Detección avanzada de Cambios en SSIS
@@ -243,7 +243,7 @@ Event Date: 14-12-2013 00:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Freddy Angarita
 ## Title: Detección avanzada de Cambios en SSIS
 ## Description:
-### System.Xml.XmlElement
+### 
 # 
 #### SessionID: 5898
 # In-Memory OLTP Internals for SQL Server 2014 CTP2
@@ -252,4 +252,4 @@ Event Date: 14-12-2013 01:00 - Category: 24 Hours of PASS (60 minutes) - Track: 
 ## Speaker(s): Percy Reyes, John Alexander Bulla Torres
 ## Title: In-Memory OLTP Internals for SQL Server 2014 CTP2
 ## Description:
-### System.Xml.XmlElement
+### 
