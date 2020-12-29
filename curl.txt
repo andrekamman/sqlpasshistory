@@ -1,0 +1,6 @@
+#curl commands to grab the source data from the Orator system (which doesn't work anymore probably if you read this after 15-01-2021)
+
+curl -k http://feeds.pass.org/public/events/OratorDataService.svc/Events([1-1140]) -o #1_event.xml
+curl -k http://feeds.pass.org/public/events/OratorDataService.svc/Events([1-1140])/PASS_OData_Orator_SessionSpeaker -o #1_speakers.xml
+curl -k http://feeds.pass.org/public/events/OratorDataService.svc/Events([1-1140])/PASS_OData_Orator_Session -o #1_sessions.xml
+curl -k http://feeds.pass.org/public/events/OratorDataService.svc/Events([1-1140])/PASS_OData_Orator_SessionFile -o #1_session_files.xml
